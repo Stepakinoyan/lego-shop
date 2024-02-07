@@ -1,0 +1,2554 @@
+{
+    "data": {
+        "contentPage": {
+            "id": "bltf4475912118d65cb",
+            "analyticsGroup": "productlisting",
+            "analyticsPageTitle": "new",
+            "metaTitle": "New LEGO\u00ae Sets and Toys | Official LEGO\u00ae Shop US",
+            "metaDescription": "If you're searching for new LEGO sets to build, look no further. Discover the full list of the LEGO\u00ae sets released in the last 2 months\u00a0",
+            "metaOpenGraph": {
+                "title": "New LEGO\u00ae Sets and Toys | Official LEGO\u00ae Shop US",
+                "description": "If you're searching for new LEGO sets to build, look no further. Discover the full list of the LEGO\u00ae sets released in the last 2 months\u00a0",
+                "imageUrl": null,
+                "__typename": "OpenGraphMeta"
+            },
+            "noIndexTag": false,
+            "url": "/categories/new-sets-and-products",
+            "title": "New LEGO\u00ae Sets and Toys",
+            "displayTitleOnPage": false,
+            "breadcrumbs": [
+                {
+                    "__typename": "Breadcrumb",
+                    "label": "Home",
+                    "url": "/",
+                    "analyticsTitle": "home"
+                },
+                {
+                    "__typename": "Breadcrumb",
+                    "label": "New",
+                    "url": "/categories/new-sets-and-products",
+                    "analyticsTitle": "new"
+                },
+                {
+                    "__typename": "Breadcrumb",
+                    "label": "New LEGO\u00ae Sets and Toys",
+                    "url": "",
+                    "analyticsTitle": "new"
+                }
+            ],
+            "__typename": "Content",
+            "articleTags": [],
+            "updatedAt": "2023-12-14",
+            "createdAt": "2022-08-16",
+            "jsonSchemaProperties": {
+                "type": "",
+                "__typename": "JSONSchemaProperties"
+            },
+            "contentBody": [
+                {
+                    "id": "006660a4-b219-11ee-bdd6-f75cb6bee651",
+                    "multivariate": null,
+                    "targeting": null,
+                    "__typename": "ContentContainer",
+                    "section": null
+                },
+                {
+                    "id": "006660a0-b219-11ee-bdd6-f75cb6bee651",
+                    "multivariate": null,
+                    "targeting": null,
+                    "__typename": "ContentContainer",
+                    "section": {
+                        "__typename": "InPageNav",
+                        "id": "bltb5fb2eba3297c453",
+                        "layout": {
+                            "width": "Standard",
+                            "colors": {
+                                "background": "#02147E",
+                                "__typename": "ContentSectionLayoutColors"
+                            },
+                            "__typename": "ContentSectionLayout"
+                        },
+                        "layoutLegacy": {
+                            "fullWidth": true,
+                            "removePadding": true,
+                            "__typename": "ContentSectionLayoutLegacy"
+                        },
+                        "inPageNavBlocks": [
+                            {
+                                "id": "blta502d31d69986564",
+                                "title": "New",
+                                "isH1": true,
+                                "text": "",
+                                "contrast": "Light",
+                                "primaryLogoSrc": "",
+                                "secondaryLogoSrc": "",
+                                "animatedMedia": "",
+                                "videoMedia": null,
+                                "contentBackground": "#000",
+                                "backgroundImages": {
+                                    "small": "",
+                                    "medium": "",
+                                    "large": "",
+                                    "__typename": "HeroImages"
+                                },
+                                "callToActionText": "",
+                                "callToActionLink": "",
+                                "callToActionUseAnalytics": null,
+                                "openInNewTab": false,
+                                "secondaryCallToActionText": null,
+                                "secondaryCallToActionLink": "",
+                                "secondaryCallToActionUseAnalytics": null,
+                                "secondaryOpenInNewTab": false,
+                                "__typename": "InPageNavChild"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "006660a1-b219-11ee-bdd6-f75cb6bee651",
+                    "multivariate": null,
+                    "targeting": null,
+                    "__typename": "ContentContainer",
+                    "section": {
+                        "__typename": "TextBlockSEO",
+                        "id": "bltb90df27baff7c65e",
+                        "layout": {
+                            "width": "Standard",
+                            "colors": {
+                                "background": "#f8f8f8",
+                                "__typename": "ContentSectionLayoutColors"
+                            },
+                            "__typename": "ContentSectionLayout"
+                        },
+                        "layoutLegacy": {
+                            "fullWidth": true,
+                            "removePadding": false,
+                            "__typename": "ContentSectionLayoutLegacy"
+                        },
+                        "textBlocks": [
+                            {
+                                "title": "New LEGO\u00ae Sets and Toys",
+                                "text": "Calling all LEGO\u00ae fans! If you love having the latest sets to build, save this page. Here you can find every new LEGO set we've released in the last 2 months. From building toy to complex collectibles, there is a wide range to discover. Browse a vast LEGO assortment and filter by <a href=\"/en-us/categories/age\">age</a>, <a href=\"/en-us/categories/price\">price</a>, <a href=\"/en-us/categories/interests\">interest</a> and more. \n\n \n\nYou can also find all the <a href=\"/en-us/categories/coming-soon\">sets coming soon</a>, <a href=\"/en-us/categories/exclusives\">LEGO Exclusives</a> and the most <a href=\"/en-us/categories/bestsellers\">popular LEGO sets here</a>!",
+                                "__typename": "TextBlockSEOChild"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "006660a5-b219-11ee-bdd6-f75cb6bee651",
+                    "multivariate": null,
+                    "targeting": null,
+                    "__typename": "ContentContainer",
+                    "section": null
+                },
+                {
+                    "id": "006660a2-b219-11ee-bdd6-f75cb6bee651",
+                    "multivariate": null,
+                    "targeting": null,
+                    "__typename": "ContentContainer",
+                    "section": {
+                        "__typename": "BasicProductSection",
+                        "id": "blt9495a15aac0c2092",
+                        "layout": {
+                            "width": "Standard",
+                            "colors": {
+                                "background": null,
+                                "__typename": "ContentSectionLayoutColors"
+                            },
+                            "__typename": "ContentSectionLayout"
+                        },
+                        "removePadding": false,
+                        "filterName": "flags",
+                        "filterValue": "new",
+                        "products": {
+                            "resultId": "03fc1de6-b621-4399-a781-f7ff73f44228",
+                            "count": 18,
+                            "offset": 0,
+                            "perPage": 18,
+                            "total": 141,
+                            "optimizelyExperiment": null,
+                            "fetchDisruptorsOnClient": false,
+                            "reservedSlots": 0,
+                            "results": [
+                                {
+                                    "__typename": "SingleVariantProduct",
+                                    "id": "80113",
+                                    "productCode": "80113",
+                                    "name": "Family Reunion Celebration",
+                                    "slug": "tbd-ctf-2024-2-80113",
+                                    "primaryImage": "https://www.lego.com/cdn/cs/set/assets/blt182acebcd064fd67/80113.png?fit=bounds&format=png&width=320&height=320&dpr=1",
+                                    "baseImgUrl": "https://www.lego.com/cdn/cs/set/assets/blt182acebcd064fd67/80113.png",
+                                    "additionalImages": [
+                                        {
+                                            "url": "https://www.lego.com/cdn/cs/set/assets/blt5bd53e0284bcfc77/80113_alt9.png?fit=bounds&format=png&width=320&height=320&dpr=1",
+                                            "tag": "secondary",
+                                            "__typename": "AdditionalImage"
+                                        }
+                                    ],
+                                    "listingImages": [
+                                        {
+                                            "id": "blt182acebcd064fd67",
+                                            "tag": "primary",
+                                            "url": "https://www.lego.com/cdn/cs/set/assets/blt182acebcd064fd67/80113.png",
+                                            "thumbnailDimensions": {
+                                                "height": 320,
+                                                "width": 320,
+                                                "__typename": "Dimensions"
+                                            },
+                                            "__typename": "ListingProductAsset"
+                                        },
+                                        {
+                                            "id": "blt5bd53e0284bcfc77",
+                                            "tag": "secondary",
+                                            "url": "https://www.lego.com/cdn/cs/set/assets/blt5bd53e0284bcfc77/80113_alt9.png",
+                                            "thumbnailDimensions": {
+                                                "height": 320,
+                                                "width": 320,
+                                                "__typename": "Dimensions"
+                                            },
+                                            "__typename": "ListingProductAsset"
+                                        }
+                                    ],
+                                    "overrideUrl": null,
+                                    "variant": {
+                                        "id": "6471835",
+                                        "sku": "6471835",
+                                        "salePercentage": 0,
+                                        "attributes": {
+                                            "rating": 4.5556,
+                                            "maxOrderQuantity": 5,
+                                            "availabilityStatus": "E_AVAILABLE",
+                                            "availabilityText": "Available now",
+                                            "vipAvailabilityStatus": null,
+                                            "vipAvailabilityText": null,
+                                            "canAddToBag": true,
+                                            "canAddToWishlist": true,
+                                            "vipCanAddToBag": null,
+                                            "onSale": false,
+                                            "isNew": true,
+                                            "ageRange": "8+",
+                                            "pieceCount": 1823,
+                                            "safetyWarning": null,
+                                            "featuredFlags": [
+                                                {
+                                                    "key": "new",
+                                                    "label": "New",
+                                                    "__typename": "FeaturedFlags"
+                                                }
+                                            ],
+                                            "__typename": "ProductAttributes"
+                                        },
+                                        "price": {
+                                            "formattedAmount": "$129.99",
+                                            "centAmount": 12999,
+                                            "currencyCode": "USD",
+                                            "formattedValue": 129.99,
+                                            "__typename": "Price"
+                                        },
+                                        "listPrice": {
+                                            "formattedAmount": "$129.99",
+                                            "centAmount": 12999,
+                                            "__typename": "Price"
+                                        },
+                                        "__typename": "ProductVariant"
+                                    }
+                                },
+                                {
+                                    "__typename": "SingleVariantProduct",
+                                    "id": "76285",
+                                    "productCode": "76285",
+                                    "name": "Spider-Man's Mask",
+                                    "slug": "tbd-sh-2024-marvel-11-76285",
+                                    "primaryImage": "https://www.lego.com/cdn/cs/set/assets/bltbd4f1a39f110e3eb/76285.png?fit=bounds&format=png&width=320&height=320&dpr=1",
+                                    "baseImgUrl": "https://www.lego.com/cdn/cs/set/assets/bltbd4f1a39f110e3eb/76285.png",
+                                    "additionalImages": [
+                                        {
+                                            "url": "https://www.lego.com/cdn/cs/set/assets/blt676797ac13be9935/76285_alt1.jpg?fit=bounds&format=jpg&quality=80&width=320&height=320&dpr=1",
+                                            "tag": "secondary",
+                                            "__typename": "AdditionalImage"
+                                        }
+                                    ],
+                                    "listingImages": [
+                                        {
+                                            "id": "bltbd4f1a39f110e3eb",
+                                            "tag": "primary",
+                                            "url": "https://www.lego.com/cdn/cs/set/assets/bltbd4f1a39f110e3eb/76285.png",
+                                            "thumbnailDimensions": {
+                                                "height": 320,
+                                                "width": 320,
+                                                "__typename": "Dimensions"
+                                            },
+                                            "__typename": "ListingProductAsset"
+                                        },
+                                        {
+                                            "id": "blt676797ac13be9935",
+                                            "tag": "secondary",
+                                            "url": "https://www.lego.com/cdn/cs/set/assets/blt676797ac13be9935/76285_alt1.jpg",
+                                            "thumbnailDimensions": {
+                                                "height": 320,
+                                                "width": 320,
+                                                "__typename": "Dimensions"
+                                            },
+                                            "__typename": "ListingProductAsset"
+                                        }
+                                    ],
+                                    "overrideUrl": null,
+                                    "variant": {
+                                        "id": "6474863",
+                                        "sku": "6474863",
+                                        "salePercentage": 0,
+                                        "attributes": {
+                                            "rating": 4.1818,
+                                            "maxOrderQuantity": 5,
+                                            "availabilityStatus": "E_AVAILABLE",
+                                            "availabilityText": "Available now",
+                                            "vipAvailabilityStatus": null,
+                                            "vipAvailabilityText": null,
+                                            "canAddToBag": true,
+                                            "canAddToWishlist": true,
+                                            "vipCanAddToBag": null,
+                                            "onSale": false,
+                                            "isNew": true,
+                                            "ageRange": "18+",
+                                            "pieceCount": 487,
+                                            "safetyWarning": null,
+                                            "featuredFlags": [
+                                                {
+                                                    "key": "new",
+                                                    "label": "New",
+                                                    "__typename": "FeaturedFlags"
+                                                }
+                                            ],
+                                            "__typename": "ProductAttributes"
+                                        },
+                                        "price": {
+                                            "formattedAmount": "$69.99",
+                                            "centAmount": 6999,
+                                            "currencyCode": "USD",
+                                            "formattedValue": 69.99,
+                                            "__typename": "Price"
+                                        },
+                                        "listPrice": {
+                                            "formattedAmount": "$69.99",
+                                            "centAmount": 6999,
+                                            "__typename": "Price"
+                                        },
+                                        "__typename": "ProductVariant"
+                                    }
+                                },
+                                {
+                                    "__typename": "SingleVariantProduct",
+                                    "id": "80112",
+                                    "productCode": "80112",
+                                    "name": "Auspicious Dragon",
+                                    "slug": "tbd-ctf-2024-1-80112",
+                                    "primaryImage": "https://www.lego.com/cdn/cs/set/assets/bltf468495d3d0fa34f/80112.png?fit=bounds&format=png&width=320&height=320&dpr=1",
+                                    "baseImgUrl": "https://www.lego.com/cdn/cs/set/assets/bltf468495d3d0fa34f/80112.png",
+                                    "additionalImages": [
+                                        {
+                                            "url": "https://www.lego.com/cdn/cs/set/assets/blt3bdd33f0621997c3/80112_alt1.png?fit=bounds&format=png&width=320&height=320&dpr=1",
+                                            "tag": "secondary",
+                                            "__typename": "AdditionalImage"
+                                        }
+                                    ],
+                                    "listingImages": [
+                                        {
+                                            "id": "bltf468495d3d0fa34f",
+                                            "tag": "primary",
+                                            "url": "https://www.lego.com/cdn/cs/set/assets/bltf468495d3d0fa34f/80112.png",
+                                            "thumbnailDimensions": {
+                                                "height": 320,
+                                                "width": 320,
+                                                "__typename": "Dimensions"
+                                            },
+                                            "__typename": "ListingProductAsset"
+                                        },
+                                        {
+                                            "id": "blt3bdd33f0621997c3",
+                                            "tag": "secondary",
+                                            "url": "https://www.lego.com/cdn/cs/set/assets/blt3bdd33f0621997c3/80112_alt1.png",
+                                            "thumbnailDimensions": {
+                                                "height": 320,
+                                                "width": 320,
+                                                "__typename": "Dimensions"
+                                            },
+                                            "__typename": "ListingProductAsset"
+                                        }
+                                    ],
+                                    "overrideUrl": null,
+                                    "variant": {
+                                        "id": "6471832",
+                                        "sku": "6471832",
+                                        "salePercentage": 0,
+                                        "attributes": {
+                                            "rating": 4.2857,
+                                            "maxOrderQuantity": 5,
+                                            "availabilityStatus": "E_AVAILABLE",
+                                            "availabilityText": "Available now",
+                                            "vipAvailabilityStatus": null,
+                                            "vipAvailabilityText": null,
+                                            "canAddToBag": true,
+                                            "canAddToWishlist": true,
+                                            "vipCanAddToBag": null,
+                                            "onSale": false,
+                                            "isNew": true,
+                                            "ageRange": "10+",
+                                            "pieceCount": 1171,
+                                            "safetyWarning": null,
+                                            "featuredFlags": [
+                                                {
+                                                    "key": "new",
+                                                    "label": "New",
+                                                    "__typename": "FeaturedFlags"
+                                                }
+                                            ],
+                                            "__typename": "ProductAttributes"
+                                        },
+                                        "price": {
+                                            "formattedAmount": "$89.99",
+                                            "centAmount": 8999,
+                                            "currencyCode": "USD",
+                                            "formattedValue": 89.99,
+                                            "__typename": "Price"
+                                        },
+                                        "listPrice": {
+                                            "formattedAmount": "$89.99",
+                                            "centAmount": 8999,
+                                            "__typename": "Price"
+                                        },
+                                        "__typename": "ProductVariant"
+                                    }
+                                },
+                                {
+                                    "__typename": "SingleVariantProduct",
+                                    "id": "40708",
+                                    "productCode": "40708",
+                                    "name": "Mini Disney Ariel's Castle",
+                                    "slug": "mini-disney-ariels-castle-40708",
+                                    "primaryImage": "https://www.lego.com/cdn/cs/set/assets/bltc568f12bc5cfa63e/40708.png?fit=bounds&format=png&width=320&height=320&dpr=1",
+                                    "baseImgUrl": "https://www.lego.com/cdn/cs/set/assets/bltc568f12bc5cfa63e/40708.png",
+                                    "additionalImages": [
+                                        {
+                                            "url": "https://www.lego.com/cdn/cs/set/assets/blt26da64d0c3367269/40708_alt1.png?fit=bounds&format=png&width=320&height=320&dpr=1",
+                                            "tag": "secondary",
+                                            "__typename": "AdditionalImage"
+                                        }
+                                    ],
+                                    "listingImages": [
+                                        {
+                                            "id": "bltc568f12bc5cfa63e",
+                                            "tag": "primary",
+                                            "url": "https://www.lego.com/cdn/cs/set/assets/bltc568f12bc5cfa63e/40708.png",
+                                            "thumbnailDimensions": {
+                                                "height": 320,
+                                                "width": 320,
+                                                "__typename": "Dimensions"
+                                            },
+                                            "__typename": "ListingProductAsset"
+                                        },
+                                        {
+                                            "id": "blt26da64d0c3367269",
+                                            "tag": "secondary",
+                                            "url": "https://www.lego.com/cdn/cs/set/assets/blt26da64d0c3367269/40708_alt1.png",
+                                            "thumbnailDimensions": {
+                                                "height": 320,
+                                                "width": 320,
+                                                "__typename": "Dimensions"
+                                            },
+                                            "__typename": "ListingProductAsset"
+                                        }
+                                    ],
+                                    "overrideUrl": null,
+                                    "variant": {
+                                        "id": "6473102",
+                                        "sku": "6473102",
+                                        "salePercentage": 0,
+                                        "attributes": {
+                                            "rating": 3.5,
+                                            "maxOrderQuantity": 5,
+                                            "availabilityStatus": "E_AVAILABLE",
+                                            "availabilityText": "Available now",
+                                            "vipAvailabilityStatus": null,
+                                            "vipAvailabilityText": null,
+                                            "canAddToBag": true,
+                                            "canAddToWishlist": true,
+                                            "vipCanAddToBag": null,
+                                            "onSale": false,
+                                            "isNew": true,
+                                            "ageRange": "12+",
+                                            "pieceCount": 557,
+                                            "safetyWarning": null,
+                                            "featuredFlags": [
+                                                {
+                                                    "key": "new",
+                                                    "label": "New",
+                                                    "__typename": "FeaturedFlags"
+                                                }
+                                            ],
+                                            "__typename": "ProductAttributes"
+                                        },
+                                        "price": {
+                                            "formattedAmount": "$39.99",
+                                            "centAmount": 3999,
+                                            "currencyCode": "USD",
+                                            "formattedValue": 39.99,
+                                            "__typename": "Price"
+                                        },
+                                        "listPrice": {
+                                            "formattedAmount": "$39.99",
+                                            "centAmount": 3999,
+                                            "__typename": "Price"
+                                        },
+                                        "__typename": "ProductVariant"
+                                    }
+                                },
+                                {
+                                    "__typename": "SingleVariantProduct",
+                                    "id": "21345",
+                                    "productCode": "21345",
+                                    "name": "Polaroid OneStep SX-70 Camera",
+                                    "slug": "polaroid-onestep-sx-70-camera-21345",
+                                    "primaryImage": "https://www.lego.com/cdn/cs/set/assets/bltb0d4865e1765d9bc/21345.png?fit=bounds&format=png&width=320&height=320&dpr=1",
+                                    "baseImgUrl": "https://www.lego.com/cdn/cs/set/assets/bltb0d4865e1765d9bc/21345.png",
+                                    "additionalImages": [
+                                        {
+                                            "url": "https://www.lego.com/cdn/cs/set/assets/blt9d4301a61bed4852/21345_alt1.jpg?fit=bounds&format=jpg&quality=80&width=320&height=320&dpr=1",
+                                            "tag": "secondary",
+                                            "__typename": "AdditionalImage"
+                                        }
+                                    ],
+                                    "listingImages": [
+                                        {
+                                            "id": "bltb0d4865e1765d9bc",
+                                            "tag": "primary",
+                                            "url": "https://www.lego.com/cdn/cs/set/assets/bltb0d4865e1765d9bc/21345.png",
+                                            "thumbnailDimensions": {
+                                                "height": 320,
+                                                "width": 320,
+                                                "__typename": "Dimensions"
+                                            },
+                                            "__typename": "ListingProductAsset"
+                                        },
+                                        {
+                                            "id": "blt9d4301a61bed4852",
+                                            "tag": "secondary",
+                                            "url": "https://www.lego.com/cdn/cs/set/assets/blt9d4301a61bed4852/21345_alt1.jpg",
+                                            "thumbnailDimensions": {
+                                                "height": 320,
+                                                "width": 320,
+                                                "__typename": "Dimensions"
+                                            },
+                                            "__typename": "ListingProductAsset"
+                                        }
+                                    ],
+                                    "overrideUrl": null,
+                                    "variant": {
+                                        "id": "6474642",
+                                        "sku": "6474642",
+                                        "salePercentage": 0,
+                                        "attributes": {
+                                            "rating": 4.4783,
+                                            "maxOrderQuantity": 5,
+                                            "availabilityStatus": "E_AVAILABLE",
+                                            "availabilityText": "Available now",
+                                            "vipAvailabilityStatus": null,
+                                            "vipAvailabilityText": null,
+                                            "canAddToBag": true,
+                                            "canAddToWishlist": true,
+                                            "vipCanAddToBag": null,
+                                            "onSale": false,
+                                            "isNew": true,
+                                            "ageRange": "18+",
+                                            "pieceCount": 516,
+                                            "safetyWarning": null,
+                                            "featuredFlags": [
+                                                {
+                                                    "key": "new",
+                                                    "label": "New",
+                                                    "__typename": "FeaturedFlags"
+                                                }
+                                            ],
+                                            "__typename": "ProductAttributes"
+                                        },
+                                        "price": {
+                                            "formattedAmount": "$79.99",
+                                            "centAmount": 7999,
+                                            "currencyCode": "USD",
+                                            "formattedValue": 79.99,
+                                            "__typename": "Price"
+                                        },
+                                        "listPrice": {
+                                            "formattedAmount": "$79.99",
+                                            "centAmount": 7999,
+                                            "__typename": "Price"
+                                        },
+                                        "__typename": "ProductVariant"
+                                    }
+                                },
+                                {
+                                    "__typename": "SingleVariantProduct",
+                                    "id": "76269",
+                                    "productCode": "76269",
+                                    "name": "Avengers Tower",
+                                    "slug": "avengers-tower-76269",
+                                    "primaryImage": "https://www.lego.com/cdn/cs/set/assets/blta1716ca226f20cab/76269.png?fit=bounds&format=png&width=320&height=320&dpr=1",
+                                    "baseImgUrl": "https://www.lego.com/cdn/cs/set/assets/blta1716ca226f20cab/76269.png",
+                                    "additionalImages": [
+                                        {
+                                            "url": "https://www.lego.com/cdn/cs/set/assets/blta44628ca57bd7d14/76269_boxprod_v39.png?fit=bounds&format=png&width=320&height=320&dpr=1",
+                                            "tag": "secondary",
+                                            "__typename": "AdditionalImage"
+                                        }
+                                    ],
+                                    "listingImages": [
+                                        {
+                                            "id": "blta1716ca226f20cab",
+                                            "tag": "primary",
+                                            "url": "https://www.lego.com/cdn/cs/set/assets/blta1716ca226f20cab/76269.png",
+                                            "thumbnailDimensions": {
+                                                "height": 320,
+                                                "width": 320,
+                                                "__typename": "Dimensions"
+                                            },
+                                            "__typename": "ListingProductAsset"
+                                        },
+                                        {
+                                            "id": "blta44628ca57bd7d14",
+                                            "tag": "secondary",
+                                            "url": "https://www.lego.com/cdn/cs/set/assets/blta44628ca57bd7d14/76269_boxprod_v39.png",
+                                            "thumbnailDimensions": {
+                                                "height": 320,
+                                                "width": 320,
+                                                "__typename": "Dimensions"
+                                            },
+                                            "__typename": "ListingProductAsset"
+                                        }
+                                    ],
+                                    "overrideUrl": null,
+                                    "variant": {
+                                        "id": "6427770",
+                                        "sku": "6427770",
+                                        "salePercentage": 0,
+                                        "attributes": {
+                                            "rating": 4.8462,
+                                            "maxOrderQuantity": 5,
+                                            "availabilityStatus": "E_AVAILABLE",
+                                            "availabilityText": "Available now",
+                                            "vipAvailabilityStatus": null,
+                                            "vipAvailabilityText": null,
+                                            "canAddToBag": true,
+                                            "canAddToWishlist": true,
+                                            "vipCanAddToBag": null,
+                                            "onSale": false,
+                                            "isNew": true,
+                                            "ageRange": "18+",
+                                            "pieceCount": 5201,
+                                            "safetyWarning": null,
+                                            "featuredFlags": [
+                                                {
+                                                    "key": "new",
+                                                    "label": "New",
+                                                    "__typename": "FeaturedFlags"
+                                                },
+                                                {
+                                                    "key": "exclusive",
+                                                    "label": "Exclusives",
+                                                    "__typename": "FeaturedFlags"
+                                                }
+                                            ],
+                                            "__typename": "ProductAttributes"
+                                        },
+                                        "price": {
+                                            "formattedAmount": "$499.99",
+                                            "centAmount": 49999,
+                                            "currencyCode": "USD",
+                                            "formattedValue": 499.99,
+                                            "__typename": "Price"
+                                        },
+                                        "listPrice": {
+                                            "formattedAmount": "$499.99",
+                                            "centAmount": 49999,
+                                            "__typename": "Price"
+                                        },
+                                        "__typename": "ProductVariant"
+                                    }
+                                },
+                                {
+                                    "__typename": "SingleVariantProduct",
+                                    "id": "66763",
+                                    "productCode": "66763",
+                                    "name": "LEGO\u00ae Minifigures Series 25 6 Pack",
+                                    "slug": "lego-minifigures-series-25-6-pack-66763",
+                                    "primaryImage": "https://www.lego.com/cdn/cs/set/assets/bltefcb5706381fd00a/66763.png?fit=bounds&format=png&width=320&height=320&dpr=1",
+                                    "baseImgUrl": "https://www.lego.com/cdn/cs/set/assets/bltefcb5706381fd00a/66763.png",
+                                    "additionalImages": [
+                                        {
+                                            "url": "https://www.lego.com/cdn/cs/set/assets/blt3949416516622d66/71045.png?fit=bounds&format=png&width=320&height=320&dpr=1",
+                                            "tag": "secondary",
+                                            "__typename": "AdditionalImage"
+                                        }
+                                    ],
+                                    "listingImages": [
+                                        {
+                                            "id": "bltefcb5706381fd00a",
+                                            "tag": "primary",
+                                            "url": "https://www.lego.com/cdn/cs/set/assets/bltefcb5706381fd00a/66763.png",
+                                            "thumbnailDimensions": {
+                                                "height": 320,
+                                                "width": 320,
+                                                "__typename": "Dimensions"
+                                            },
+                                            "__typename": "ListingProductAsset"
+                                        },
+                                        {
+                                            "id": "blt3949416516622d66",
+                                            "tag": "secondary",
+                                            "url": "https://www.lego.com/cdn/cs/set/assets/blt3949416516622d66/71045.png",
+                                            "thumbnailDimensions": {
+                                                "height": 320,
+                                                "width": 320,
+                                                "__typename": "Dimensions"
+                                            },
+                                            "__typename": "ListingProductAsset"
+                                        }
+                                    ],
+                                    "overrideUrl": null,
+                                    "variant": {
+                                        "id": "6471413",
+                                        "sku": "6471413",
+                                        "salePercentage": 0,
+                                        "attributes": {
+                                            "rating": 3.6667,
+                                            "maxOrderQuantity": 5,
+                                            "availabilityStatus": "E_AVAILABLE",
+                                            "availabilityText": "Available now",
+                                            "vipAvailabilityStatus": null,
+                                            "vipAvailabilityText": null,
+                                            "canAddToBag": true,
+                                            "canAddToWishlist": true,
+                                            "vipCanAddToBag": null,
+                                            "onSale": false,
+                                            "isNew": true,
+                                            "ageRange": "5+",
+                                            "pieceCount": 52,
+                                            "safetyWarning": null,
+                                            "featuredFlags": [
+                                                {
+                                                    "key": "new",
+                                                    "label": "New",
+                                                    "__typename": "FeaturedFlags"
+                                                }
+                                            ],
+                                            "__typename": "ProductAttributes"
+                                        },
+                                        "price": {
+                                            "formattedAmount": "$29.94",
+                                            "centAmount": 2994,
+                                            "currencyCode": "USD",
+                                            "formattedValue": 29.94,
+                                            "__typename": "Price"
+                                        },
+                                        "listPrice": {
+                                            "formattedAmount": "$29.94",
+                                            "centAmount": 2994,
+                                            "__typename": "Price"
+                                        },
+                                        "__typename": "ProductVariant"
+                                    }
+                                },
+                                {
+                                    "__typename": "SingleVariantProduct",
+                                    "id": "76282",
+                                    "productCode": "76282",
+                                    "name": "Rocket & Baby Groot",
+                                    "slug": "rocket--baby-groot-76282",
+                                    "primaryImage": "https://www.lego.com/cdn/cs/set/assets/blt88bd1fb644a30a73/76282.png?fit=bounds&format=png&width=320&height=320&dpr=1",
+                                    "baseImgUrl": "https://www.lego.com/cdn/cs/set/assets/blt88bd1fb644a30a73/76282.png",
+                                    "additionalImages": [
+                                        {
+                                            "url": "https://www.lego.com/cdn/cs/set/assets/bltcf57e376e32b3da6/76282_alt1.png?fit=bounds&format=png&width=320&height=320&dpr=1",
+                                            "tag": "secondary",
+                                            "__typename": "AdditionalImage"
+                                        }
+                                    ],
+                                    "listingImages": [
+                                        {
+                                            "id": "bltd0dc20140691e211",
+                                            "tag": "primary",
+                                            "url": "https://www.lego.com/cdn/cs/set/assets/bltd0dc20140691e211/76282_alt2.png",
+                                            "thumbnailDimensions": {
+                                                "height": 320,
+                                                "width": 320,
+                                                "__typename": "Dimensions"
+                                            },
+                                            "__typename": "ListingProductAsset"
+                                        },
+                                        {
+                                            "id": "bltcf57e376e32b3da6",
+                                            "tag": "secondary",
+                                            "url": "https://www.lego.com/cdn/cs/set/assets/bltcf57e376e32b3da6/76282_alt1.png",
+                                            "thumbnailDimensions": {
+                                                "height": 320,
+                                                "width": 320,
+                                                "__typename": "Dimensions"
+                                            },
+                                            "__typename": "ListingProductAsset"
+                                        }
+                                    ],
+                                    "overrideUrl": null,
+                                    "variant": {
+                                        "id": "6471515",
+                                        "sku": "6471515",
+                                        "salePercentage": 0,
+                                        "attributes": {
+                                            "rating": 4.6667,
+                                            "maxOrderQuantity": 5,
+                                            "availabilityStatus": "E_AVAILABLE",
+                                            "availabilityText": "Available now",
+                                            "vipAvailabilityStatus": null,
+                                            "vipAvailabilityText": null,
+                                            "canAddToBag": true,
+                                            "canAddToWishlist": true,
+                                            "vipCanAddToBag": null,
+                                            "onSale": false,
+                                            "isNew": true,
+                                            "ageRange": "10+",
+                                            "pieceCount": 566,
+                                            "safetyWarning": null,
+                                            "featuredFlags": [
+                                                {
+                                                    "key": "new",
+                                                    "label": "New",
+                                                    "__typename": "FeaturedFlags"
+                                                }
+                                            ],
+                                            "__typename": "ProductAttributes"
+                                        },
+                                        "price": {
+                                            "formattedAmount": "$59.99",
+                                            "centAmount": 5999,
+                                            "currencyCode": "USD",
+                                            "formattedValue": 59.99,
+                                            "__typename": "Price"
+                                        },
+                                        "listPrice": {
+                                            "formattedAmount": "$59.99",
+                                            "centAmount": 5999,
+                                            "__typename": "Price"
+                                        },
+                                        "__typename": "ProductVariant"
+                                    }
+                                },
+                                {
+                                    "__typename": "SingleVariantProduct",
+                                    "id": "40678",
+                                    "productCode": "40678",
+                                    "name": "Festival Calendar",
+                                    "slug": "festival-calendar-40678",
+                                    "primaryImage": "https://www.lego.com/cdn/cs/set/assets/blt7313b131b122beb4/40678.png?fit=bounds&format=png&width=320&height=320&dpr=1",
+                                    "baseImgUrl": "https://www.lego.com/cdn/cs/set/assets/blt7313b131b122beb4/40678.png",
+                                    "additionalImages": [
+                                        {
+                                            "url": "https://www.lego.com/cdn/cs/set/assets/bltdadadebdd82818fd/40678_alt1.png?fit=bounds&format=png&width=320&height=320&dpr=1",
+                                            "tag": "secondary",
+                                            "__typename": "AdditionalImage"
+                                        }
+                                    ],
+                                    "listingImages": [
+                                        {
+                                            "id": "blt7313b131b122beb4",
+                                            "tag": "primary",
+                                            "url": "https://www.lego.com/cdn/cs/set/assets/blt7313b131b122beb4/40678.png",
+                                            "thumbnailDimensions": {
+                                                "height": 320,
+                                                "width": 320,
+                                                "__typename": "Dimensions"
+                                            },
+                                            "__typename": "ListingProductAsset"
+                                        },
+                                        {
+                                            "id": "bltdadadebdd82818fd",
+                                            "tag": "secondary",
+                                            "url": "https://www.lego.com/cdn/cs/set/assets/bltdadadebdd82818fd/40678_alt1.png",
+                                            "thumbnailDimensions": {
+                                                "height": 320,
+                                                "width": 320,
+                                                "__typename": "Dimensions"
+                                            },
+                                            "__typename": "ListingProductAsset"
+                                        }
+                                    ],
+                                    "overrideUrl": null,
+                                    "variant": {
+                                        "id": "6473116",
+                                        "sku": "6473116",
+                                        "salePercentage": 0,
+                                        "attributes": {
+                                            "rating": 4.3333,
+                                            "maxOrderQuantity": 5,
+                                            "availabilityStatus": "E_AVAILABLE",
+                                            "availabilityText": "Available now",
+                                            "vipAvailabilityStatus": null,
+                                            "vipAvailabilityText": null,
+                                            "canAddToBag": true,
+                                            "canAddToWishlist": true,
+                                            "vipCanAddToBag": null,
+                                            "onSale": false,
+                                            "isNew": true,
+                                            "ageRange": "10+",
+                                            "pieceCount": 345,
+                                            "safetyWarning": null,
+                                            "featuredFlags": [
+                                                {
+                                                    "key": "new",
+                                                    "label": "New",
+                                                    "__typename": "FeaturedFlags"
+                                                }
+                                            ],
+                                            "__typename": "ProductAttributes"
+                                        },
+                                        "price": {
+                                            "formattedAmount": "$29.94",
+                                            "centAmount": 2994,
+                                            "currencyCode": "USD",
+                                            "formattedValue": 29.94,
+                                            "__typename": "Price"
+                                        },
+                                        "listPrice": {
+                                            "formattedAmount": "$29.94",
+                                            "centAmount": 2994,
+                                            "__typename": "Price"
+                                        },
+                                        "__typename": "ProductVariant"
+                                    }
+                                },
+                                {
+                                    "__typename": "SingleVariantProduct",
+                                    "id": "80054",
+                                    "productCode": "80054",
+                                    "name": "Megapolis City 5th Anniversary",
+                                    "slug": "megapolis-city-5th-anniversary-80054",
+                                    "primaryImage": "https://www.lego.com/cdn/cs/set/assets/bltc939f4923794698e/80054_alt1.png?fit=bounds&format=png&width=320&height=320&dpr=1",
+                                    "baseImgUrl": "https://www.lego.com/cdn/cs/set/assets/bltc939f4923794698e/80054_alt1.png",
+                                    "additionalImages": [
+                                        {
+                                            "url": "https://www.lego.com/cdn/cs/set/assets/blt15b6af6bd0d27a00/80054.png?fit=bounds&format=png&width=320&height=320&dpr=1",
+                                            "tag": "secondary",
+                                            "__typename": "AdditionalImage"
+                                        }
+                                    ],
+                                    "listingImages": [
+                                        {
+                                            "id": "bltc939f4923794698e",
+                                            "tag": "primary",
+                                            "url": "https://www.lego.com/cdn/cs/set/assets/bltc939f4923794698e/80054_alt1.png",
+                                            "thumbnailDimensions": {
+                                                "height": 320,
+                                                "width": 320,
+                                                "__typename": "Dimensions"
+                                            },
+                                            "__typename": "ListingProductAsset"
+                                        },
+                                        {
+                                            "id": "blt15b6af6bd0d27a00",
+                                            "tag": "secondary",
+                                            "url": "https://www.lego.com/cdn/cs/set/assets/blt15b6af6bd0d27a00/80054.png",
+                                            "thumbnailDimensions": {
+                                                "height": 320,
+                                                "width": 320,
+                                                "__typename": "Dimensions"
+                                            },
+                                            "__typename": "ListingProductAsset"
+                                        }
+                                    ],
+                                    "overrideUrl": null,
+                                    "variant": {
+                                        "id": "6470568",
+                                        "sku": "6470568",
+                                        "salePercentage": 0,
+                                        "attributes": {
+                                            "rating": 5,
+                                            "maxOrderQuantity": 5,
+                                            "availabilityStatus": "E_AVAILABLE",
+                                            "availabilityText": "Available now",
+                                            "vipAvailabilityStatus": null,
+                                            "vipAvailabilityText": null,
+                                            "canAddToBag": true,
+                                            "canAddToWishlist": true,
+                                            "vipCanAddToBag": null,
+                                            "onSale": false,
+                                            "isNew": true,
+                                            "ageRange": "10+",
+                                            "pieceCount": 2330,
+                                            "safetyWarning": null,
+                                            "featuredFlags": [
+                                                {
+                                                    "key": "new",
+                                                    "label": "New",
+                                                    "__typename": "FeaturedFlags"
+                                                }
+                                            ],
+                                            "__typename": "ProductAttributes"
+                                        },
+                                        "price": {
+                                            "formattedAmount": "$189.99",
+                                            "centAmount": 18999,
+                                            "currencyCode": "USD",
+                                            "formattedValue": 189.99,
+                                            "__typename": "Price"
+                                        },
+                                        "listPrice": {
+                                            "formattedAmount": "$189.99",
+                                            "centAmount": 18999,
+                                            "__typename": "Price"
+                                        },
+                                        "__typename": "ProductVariant"
+                                    }
+                                },
+                                {
+                                    "__typename": "SingleVariantProduct",
+                                    "id": "31149",
+                                    "productCode": "31149",
+                                    "name": "Flowers in Watering Can",
+                                    "slug": "flowers-in-watering-can-31149",
+                                    "primaryImage": "https://www.lego.com/cdn/cs/set/assets/bltd2d5f472a43f0580/31149.png?fit=bounds&format=png&width=320&height=320&dpr=1",
+                                    "baseImgUrl": "https://www.lego.com/cdn/cs/set/assets/bltd2d5f472a43f0580/31149.png",
+                                    "additionalImages": [
+                                        {
+                                            "url": "https://www.lego.com/cdn/cs/set/assets/blte7a2d434230ca0ce/31149_alt1.png?fit=bounds&format=png&width=320&height=320&dpr=1",
+                                            "tag": "secondary",
+                                            "__typename": "AdditionalImage"
+                                        }
+                                    ],
+                                    "listingImages": [
+                                        {
+                                            "id": "bltd2d5f472a43f0580",
+                                            "tag": "primary",
+                                            "url": "https://www.lego.com/cdn/cs/set/assets/bltd2d5f472a43f0580/31149.png",
+                                            "thumbnailDimensions": {
+                                                "height": 320,
+                                                "width": 320,
+                                                "__typename": "Dimensions"
+                                            },
+                                            "__typename": "ListingProductAsset"
+                                        },
+                                        {
+                                            "id": "blte7a2d434230ca0ce",
+                                            "tag": "secondary",
+                                            "url": "https://www.lego.com/cdn/cs/set/assets/blte7a2d434230ca0ce/31149_alt1.png",
+                                            "thumbnailDimensions": {
+                                                "height": 320,
+                                                "width": 320,
+                                                "__typename": "Dimensions"
+                                            },
+                                            "__typename": "ListingProductAsset"
+                                        }
+                                    ],
+                                    "overrideUrl": null,
+                                    "variant": {
+                                        "id": "6470625",
+                                        "sku": "6470625",
+                                        "salePercentage": 0,
+                                        "attributes": {
+                                            "rating": 4.8571,
+                                            "maxOrderQuantity": 5,
+                                            "availabilityStatus": "E_AVAILABLE",
+                                            "availabilityText": "Available now",
+                                            "vipAvailabilityStatus": null,
+                                            "vipAvailabilityText": null,
+                                            "canAddToBag": true,
+                                            "canAddToWishlist": true,
+                                            "vipCanAddToBag": null,
+                                            "onSale": false,
+                                            "isNew": true,
+                                            "ageRange": "8+",
+                                            "pieceCount": 420,
+                                            "safetyWarning": null,
+                                            "featuredFlags": [
+                                                {
+                                                    "key": "new",
+                                                    "label": "New",
+                                                    "__typename": "FeaturedFlags"
+                                                }
+                                            ],
+                                            "__typename": "ProductAttributes"
+                                        },
+                                        "price": {
+                                            "formattedAmount": "$29.99",
+                                            "centAmount": 2999,
+                                            "currencyCode": "USD",
+                                            "formattedValue": 29.99,
+                                            "__typename": "Price"
+                                        },
+                                        "listPrice": {
+                                            "formattedAmount": "$29.99",
+                                            "centAmount": 2999,
+                                            "__typename": "Price"
+                                        },
+                                        "__typename": "ProductVariant"
+                                    }
+                                },
+                                {
+                                    "__typename": "SingleVariantProduct",
+                                    "id": "31156",
+                                    "productCode": "31156",
+                                    "name": "Tropical\u00a0Ukulele",
+                                    "slug": "tropical-ukulele-31156",
+                                    "primaryImage": "https://www.lego.com/cdn/cs/set/assets/bltfb2cb30f3daa8614/31156.png?fit=bounds&format=png&width=320&height=320&dpr=1",
+                                    "baseImgUrl": "https://www.lego.com/cdn/cs/set/assets/bltfb2cb30f3daa8614/31156.png",
+                                    "additionalImages": [
+                                        {
+                                            "url": "https://www.lego.com/cdn/cs/set/assets/blt9d6d927285e7e932/31156_alt1.png?fit=bounds&format=png&width=320&height=320&dpr=1",
+                                            "tag": "secondary",
+                                            "__typename": "AdditionalImage"
+                                        }
+                                    ],
+                                    "listingImages": [
+                                        {
+                                            "id": "bltfb2cb30f3daa8614",
+                                            "tag": "primary",
+                                            "url": "https://www.lego.com/cdn/cs/set/assets/bltfb2cb30f3daa8614/31156.png",
+                                            "thumbnailDimensions": {
+                                                "height": 320,
+                                                "width": 320,
+                                                "__typename": "Dimensions"
+                                            },
+                                            "__typename": "ListingProductAsset"
+                                        },
+                                        {
+                                            "id": "blt9d6d927285e7e932",
+                                            "tag": "secondary",
+                                            "url": "https://www.lego.com/cdn/cs/set/assets/blt9d6d927285e7e932/31156_alt1.png",
+                                            "thumbnailDimensions": {
+                                                "height": 320,
+                                                "width": 320,
+                                                "__typename": "Dimensions"
+                                            },
+                                            "__typename": "ListingProductAsset"
+                                        }
+                                    ],
+                                    "overrideUrl": null,
+                                    "variant": {
+                                        "id": "6474634",
+                                        "sku": "6474634",
+                                        "salePercentage": 0,
+                                        "attributes": {
+                                            "rating": 5,
+                                            "maxOrderQuantity": 3,
+                                            "availabilityStatus": "E_AVAILABLE",
+                                            "availabilityText": "Available now",
+                                            "vipAvailabilityStatus": null,
+                                            "vipAvailabilityText": null,
+                                            "canAddToBag": true,
+                                            "canAddToWishlist": true,
+                                            "vipCanAddToBag": null,
+                                            "onSale": false,
+                                            "isNew": true,
+                                            "ageRange": "8+",
+                                            "pieceCount": 387,
+                                            "safetyWarning": null,
+                                            "featuredFlags": [
+                                                {
+                                                    "key": "new",
+                                                    "label": "New",
+                                                    "__typename": "FeaturedFlags"
+                                                }
+                                            ],
+                                            "__typename": "ProductAttributes"
+                                        },
+                                        "price": {
+                                            "formattedAmount": "$29.99",
+                                            "centAmount": 2999,
+                                            "currencyCode": "USD",
+                                            "formattedValue": 29.99,
+                                            "__typename": "Price"
+                                        },
+                                        "listPrice": {
+                                            "formattedAmount": "$29.99",
+                                            "centAmount": 2999,
+                                            "__typename": "Price"
+                                        },
+                                        "__typename": "ProductVariant"
+                                    }
+                                },
+                                {
+                                    "__typename": "SingleVariantProduct",
+                                    "id": "42167",
+                                    "productCode": "42167",
+                                    "name": "Mack\u00ae LR Electric Garbage Truck",
+                                    "slug": "mack-lr-electric-garbage-truck-42167",
+                                    "primaryImage": "https://www.lego.com/cdn/cs/set/assets/blt49af7c81f3e72835/42167.png?fit=bounds&format=png&width=320&height=320&dpr=1",
+                                    "baseImgUrl": "https://www.lego.com/cdn/cs/set/assets/blt49af7c81f3e72835/42167.png",
+                                    "additionalImages": [
+                                        {
+                                            "url": "https://www.lego.com/cdn/cs/set/assets/bltee483c7e79a2278e/42167_alt1.png?fit=bounds&format=png&width=320&height=320&dpr=1",
+                                            "tag": "secondary",
+                                            "__typename": "AdditionalImage"
+                                        }
+                                    ],
+                                    "listingImages": [
+                                        {
+                                            "id": "blt49af7c81f3e72835",
+                                            "tag": "primary",
+                                            "url": "https://www.lego.com/cdn/cs/set/assets/blt49af7c81f3e72835/42167.png",
+                                            "thumbnailDimensions": {
+                                                "height": 320,
+                                                "width": 320,
+                                                "__typename": "Dimensions"
+                                            },
+                                            "__typename": "ListingProductAsset"
+                                        },
+                                        {
+                                            "id": "bltee483c7e79a2278e",
+                                            "tag": "secondary",
+                                            "url": "https://www.lego.com/cdn/cs/set/assets/bltee483c7e79a2278e/42167_alt1.png",
+                                            "thumbnailDimensions": {
+                                                "height": 320,
+                                                "width": 320,
+                                                "__typename": "Dimensions"
+                                            },
+                                            "__typename": "ListingProductAsset"
+                                        }
+                                    ],
+                                    "overrideUrl": null,
+                                    "variant": {
+                                        "id": "6470639",
+                                        "sku": "6470639",
+                                        "salePercentage": 0,
+                                        "attributes": {
+                                            "rating": 4.7143,
+                                            "maxOrderQuantity": 5,
+                                            "availabilityStatus": "E_AVAILABLE",
+                                            "availabilityText": "Available now",
+                                            "vipAvailabilityStatus": null,
+                                            "vipAvailabilityText": null,
+                                            "canAddToBag": true,
+                                            "canAddToWishlist": true,
+                                            "vipCanAddToBag": null,
+                                            "onSale": false,
+                                            "isNew": true,
+                                            "ageRange": "8+",
+                                            "pieceCount": 503,
+                                            "safetyWarning": null,
+                                            "featuredFlags": [
+                                                {
+                                                    "key": "new",
+                                                    "label": "New",
+                                                    "__typename": "FeaturedFlags"
+                                                }
+                                            ],
+                                            "__typename": "ProductAttributes"
+                                        },
+                                        "price": {
+                                            "formattedAmount": "$32.99",
+                                            "centAmount": 3299,
+                                            "currencyCode": "USD",
+                                            "formattedValue": 32.99,
+                                            "__typename": "Price"
+                                        },
+                                        "listPrice": {
+                                            "formattedAmount": "$32.99",
+                                            "centAmount": 3299,
+                                            "__typename": "Price"
+                                        },
+                                        "__typename": "ProductVariant"
+                                    }
+                                },
+                                {
+                                    "__typename": "SingleVariantProduct",
+                                    "id": "31157",
+                                    "productCode": "31157",
+                                    "name": "Exotic Peacock",
+                                    "slug": "exotic-peacock-31157",
+                                    "primaryImage": "https://www.lego.com/cdn/cs/set/assets/bltfa6c9196a514bb03/31157.png?fit=bounds&format=png&width=320&height=320&dpr=1",
+                                    "baseImgUrl": "https://www.lego.com/cdn/cs/set/assets/bltfa6c9196a514bb03/31157.png",
+                                    "additionalImages": [
+                                        {
+                                            "url": "https://www.lego.com/cdn/cs/set/assets/blte052d9facefecfc7/31157_alt1.png?fit=bounds&format=png&width=320&height=320&dpr=1",
+                                            "tag": "secondary",
+                                            "__typename": "AdditionalImage"
+                                        }
+                                    ],
+                                    "listingImages": [
+                                        {
+                                            "id": "bltfa6c9196a514bb03",
+                                            "tag": "primary",
+                                            "url": "https://www.lego.com/cdn/cs/set/assets/bltfa6c9196a514bb03/31157.png",
+                                            "thumbnailDimensions": {
+                                                "height": 320,
+                                                "width": 320,
+                                                "__typename": "Dimensions"
+                                            },
+                                            "__typename": "ListingProductAsset"
+                                        },
+                                        {
+                                            "id": "blte052d9facefecfc7",
+                                            "tag": "secondary",
+                                            "url": "https://www.lego.com/cdn/cs/set/assets/blte052d9facefecfc7/31157_alt1.png",
+                                            "thumbnailDimensions": {
+                                                "height": 320,
+                                                "width": 320,
+                                                "__typename": "Dimensions"
+                                            },
+                                            "__typename": "ListingProductAsset"
+                                        }
+                                    ],
+                                    "overrideUrl": null,
+                                    "variant": {
+                                        "id": "6474636",
+                                        "sku": "6474636",
+                                        "salePercentage": 0,
+                                        "attributes": {
+                                            "rating": 5,
+                                            "maxOrderQuantity": 5,
+                                            "availabilityStatus": "E_AVAILABLE",
+                                            "availabilityText": "Available now",
+                                            "vipAvailabilityStatus": null,
+                                            "vipAvailabilityText": null,
+                                            "canAddToBag": true,
+                                            "canAddToWishlist": true,
+                                            "vipCanAddToBag": null,
+                                            "onSale": false,
+                                            "isNew": true,
+                                            "ageRange": "7+",
+                                            "pieceCount": 355,
+                                            "safetyWarning": null,
+                                            "featuredFlags": [
+                                                {
+                                                    "key": "new",
+                                                    "label": "New",
+                                                    "__typename": "FeaturedFlags"
+                                                }
+                                            ],
+                                            "__typename": "ProductAttributes"
+                                        },
+                                        "price": {
+                                            "formattedAmount": "$19.99",
+                                            "centAmount": 1999,
+                                            "currencyCode": "USD",
+                                            "formattedValue": 19.99,
+                                            "__typename": "Price"
+                                        },
+                                        "listPrice": {
+                                            "formattedAmount": "$19.99",
+                                            "centAmount": 1999,
+                                            "__typename": "Price"
+                                        },
+                                        "__typename": "ProductVariant"
+                                    }
+                                },
+                                {
+                                    "__typename": "SingleVariantProduct",
+                                    "id": "31152",
+                                    "productCode": "31152",
+                                    "name": "Space\u00a0Astronaut",
+                                    "slug": "space-astronaut-31152",
+                                    "primaryImage": "https://www.lego.com/cdn/cs/set/assets/blt2ab62c2c368f72f6/31152.png?fit=bounds&format=png&width=320&height=320&dpr=1",
+                                    "baseImgUrl": "https://www.lego.com/cdn/cs/set/assets/blt2ab62c2c368f72f6/31152.png",
+                                    "additionalImages": [
+                                        {
+                                            "url": "https://www.lego.com/cdn/cs/set/assets/bltb2da1afbb0926a8c/31152_alt1.png?fit=bounds&format=png&width=320&height=320&dpr=1",
+                                            "tag": "secondary",
+                                            "__typename": "AdditionalImage"
+                                        }
+                                    ],
+                                    "listingImages": [
+                                        {
+                                            "id": "blt2ab62c2c368f72f6",
+                                            "tag": "primary",
+                                            "url": "https://www.lego.com/cdn/cs/set/assets/blt2ab62c2c368f72f6/31152.png",
+                                            "thumbnailDimensions": {
+                                                "height": 320,
+                                                "width": 320,
+                                                "__typename": "Dimensions"
+                                            },
+                                            "__typename": "ListingProductAsset"
+                                        },
+                                        {
+                                            "id": "bltb2da1afbb0926a8c",
+                                            "tag": "secondary",
+                                            "url": "https://www.lego.com/cdn/cs/set/assets/bltb2da1afbb0926a8c/31152_alt1.png",
+                                            "thumbnailDimensions": {
+                                                "height": 320,
+                                                "width": 320,
+                                                "__typename": "Dimensions"
+                                            },
+                                            "__typename": "ListingProductAsset"
+                                        }
+                                    ],
+                                    "overrideUrl": null,
+                                    "variant": {
+                                        "id": "6465048",
+                                        "sku": "6465048",
+                                        "salePercentage": 0,
+                                        "attributes": {
+                                            "rating": 5,
+                                            "maxOrderQuantity": 5,
+                                            "availabilityStatus": "E_AVAILABLE",
+                                            "availabilityText": "Available now",
+                                            "vipAvailabilityStatus": null,
+                                            "vipAvailabilityText": null,
+                                            "canAddToBag": true,
+                                            "canAddToWishlist": true,
+                                            "vipCanAddToBag": null,
+                                            "onSale": false,
+                                            "isNew": true,
+                                            "ageRange": "9+",
+                                            "pieceCount": 647,
+                                            "safetyWarning": null,
+                                            "featuredFlags": [
+                                                {
+                                                    "key": "new",
+                                                    "label": "New",
+                                                    "__typename": "FeaturedFlags"
+                                                }
+                                            ],
+                                            "__typename": "ProductAttributes"
+                                        },
+                                        "price": {
+                                            "formattedAmount": "$54.99",
+                                            "centAmount": 5499,
+                                            "currencyCode": "USD",
+                                            "formattedValue": 54.99,
+                                            "__typename": "Price"
+                                        },
+                                        "listPrice": {
+                                            "formattedAmount": "$54.99",
+                                            "centAmount": 5499,
+                                            "__typename": "Price"
+                                        },
+                                        "__typename": "ProductVariant"
+                                    }
+                                },
+                                {
+                                    "__typename": "SingleVariantProduct",
+                                    "id": "60404",
+                                    "productCode": "60404",
+                                    "name": "Burger Truck",
+                                    "slug": "burger-truck-60404",
+                                    "primaryImage": "https://www.lego.com/cdn/cs/set/assets/blta619ec8f2276fa45/60404_alt1.png?fit=bounds&format=png&width=320&height=320&dpr=1",
+                                    "baseImgUrl": "https://www.lego.com/cdn/cs/set/assets/blta619ec8f2276fa45/60404_alt1.png",
+                                    "additionalImages": [
+                                        {
+                                            "url": "https://www.lego.com/cdn/cs/set/assets/bltc8e139c1b13be9a6/60404.png?fit=bounds&format=png&width=320&height=320&dpr=1",
+                                            "tag": "secondary",
+                                            "__typename": "AdditionalImage"
+                                        }
+                                    ],
+                                    "listingImages": [
+                                        {
+                                            "id": "blta619ec8f2276fa45",
+                                            "tag": "primary",
+                                            "url": "https://www.lego.com/cdn/cs/set/assets/blta619ec8f2276fa45/60404_alt1.png",
+                                            "thumbnailDimensions": {
+                                                "height": 320,
+                                                "width": 320,
+                                                "__typename": "Dimensions"
+                                            },
+                                            "__typename": "ListingProductAsset"
+                                        },
+                                        {
+                                            "id": "bltc8e139c1b13be9a6",
+                                            "tag": "secondary",
+                                            "url": "https://www.lego.com/cdn/cs/set/assets/bltc8e139c1b13be9a6/60404.png",
+                                            "thumbnailDimensions": {
+                                                "height": 320,
+                                                "width": 320,
+                                                "__typename": "Dimensions"
+                                            },
+                                            "__typename": "ListingProductAsset"
+                                        }
+                                    ],
+                                    "overrideUrl": null,
+                                    "variant": {
+                                        "id": "6465028",
+                                        "sku": "6465028",
+                                        "salePercentage": 0,
+                                        "attributes": {
+                                            "rating": 4.8333,
+                                            "maxOrderQuantity": 5,
+                                            "availabilityStatus": "E_AVAILABLE",
+                                            "availabilityText": "Available now",
+                                            "vipAvailabilityStatus": null,
+                                            "vipAvailabilityText": null,
+                                            "canAddToBag": true,
+                                            "canAddToWishlist": true,
+                                            "vipCanAddToBag": null,
+                                            "onSale": false,
+                                            "isNew": true,
+                                            "ageRange": "5+",
+                                            "pieceCount": 194,
+                                            "safetyWarning": null,
+                                            "featuredFlags": [
+                                                {
+                                                    "key": "new",
+                                                    "label": "New",
+                                                    "__typename": "FeaturedFlags"
+                                                }
+                                            ],
+                                            "__typename": "ProductAttributes"
+                                        },
+                                        "price": {
+                                            "formattedAmount": "$19.99",
+                                            "centAmount": 1999,
+                                            "currencyCode": "USD",
+                                            "formattedValue": 19.99,
+                                            "__typename": "Price"
+                                        },
+                                        "listPrice": {
+                                            "formattedAmount": "$19.99",
+                                            "centAmount": 1999,
+                                            "__typename": "Price"
+                                        },
+                                        "__typename": "ProductVariant"
+                                    }
+                                },
+                                {
+                                    "__typename": "SingleVariantProduct",
+                                    "id": "40673",
+                                    "productCode": "40673",
+                                    "name": "Spring Festival Mickey Mouse",
+                                    "slug": "spring-festival-mickey-mouse-40673",
+                                    "primaryImage": "https://www.lego.com/cdn/cs/set/assets/bltbf7a5d989d3e559f/40673_alt1.png?fit=bounds&format=png&width=320&height=320&dpr=1",
+                                    "baseImgUrl": "https://www.lego.com/cdn/cs/set/assets/bltbf7a5d989d3e559f/40673_alt1.png",
+                                    "additionalImages": [
+                                        {
+                                            "url": "https://www.lego.com/cdn/cs/set/assets/bltc844f32242293cfb/40673.png?fit=bounds&format=png&width=320&height=320&dpr=1",
+                                            "tag": "secondary",
+                                            "__typename": "AdditionalImage"
+                                        }
+                                    ],
+                                    "listingImages": [
+                                        {
+                                            "id": "bltbf7a5d989d3e559f",
+                                            "tag": "primary",
+                                            "url": "https://www.lego.com/cdn/cs/set/assets/bltbf7a5d989d3e559f/40673_alt1.png",
+                                            "thumbnailDimensions": {
+                                                "height": 320,
+                                                "width": 320,
+                                                "__typename": "Dimensions"
+                                            },
+                                            "__typename": "ListingProductAsset"
+                                        },
+                                        {
+                                            "id": "bltc844f32242293cfb",
+                                            "tag": "secondary",
+                                            "url": "https://www.lego.com/cdn/cs/set/assets/bltc844f32242293cfb/40673.png",
+                                            "thumbnailDimensions": {
+                                                "height": 320,
+                                                "width": 320,
+                                                "__typename": "Dimensions"
+                                            },
+                                            "__typename": "ListingProductAsset"
+                                        }
+                                    ],
+                                    "overrideUrl": null,
+                                    "variant": {
+                                        "id": "6473114",
+                                        "sku": "6473114",
+                                        "salePercentage": 0,
+                                        "attributes": {
+                                            "rating": 5,
+                                            "maxOrderQuantity": 5,
+                                            "availabilityStatus": "E_AVAILABLE",
+                                            "availabilityText": "Available now",
+                                            "vipAvailabilityStatus": null,
+                                            "vipAvailabilityText": null,
+                                            "canAddToBag": true,
+                                            "canAddToWishlist": true,
+                                            "vipCanAddToBag": null,
+                                            "onSale": false,
+                                            "isNew": true,
+                                            "ageRange": "10+",
+                                            "pieceCount": 120,
+                                            "safetyWarning": null,
+                                            "featuredFlags": [
+                                                {
+                                                    "key": "new",
+                                                    "label": "New",
+                                                    "__typename": "FeaturedFlags"
+                                                },
+                                                {
+                                                    "key": "exclusive",
+                                                    "label": "Exclusives",
+                                                    "__typename": "FeaturedFlags"
+                                                }
+                                            ],
+                                            "__typename": "ProductAttributes"
+                                        },
+                                        "price": {
+                                            "formattedAmount": "$9.99",
+                                            "centAmount": 999,
+                                            "currencyCode": "USD",
+                                            "formattedValue": 9.99,
+                                            "__typename": "Price"
+                                        },
+                                        "listPrice": {
+                                            "formattedAmount": "$9.99",
+                                            "centAmount": 999,
+                                            "__typename": "Price"
+                                        },
+                                        "__typename": "ProductVariant"
+                                    }
+                                },
+                                {
+                                    "__typename": "SingleVariantProduct",
+                                    "id": "40713",
+                                    "productCode": "40713",
+                                    "name": "Japan Postcard",
+                                    "slug": "japan-postcard-40713",
+                                    "primaryImage": "https://www.lego.com/cdn/cs/set/assets/bltb04aac3af688e0b9/40713.png?fit=bounds&format=png&width=320&height=320&dpr=1",
+                                    "baseImgUrl": "https://www.lego.com/cdn/cs/set/assets/bltb04aac3af688e0b9/40713.png",
+                                    "additionalImages": [
+                                        {
+                                            "url": "https://www.lego.com/cdn/cs/set/assets/blt4b7f43c3f6c07041/40713_alt1.png?fit=bounds&format=png&width=320&height=320&dpr=1",
+                                            "tag": "secondary",
+                                            "__typename": "AdditionalImage"
+                                        }
+                                    ],
+                                    "listingImages": [
+                                        {
+                                            "id": "bltb04aac3af688e0b9",
+                                            "tag": "primary",
+                                            "url": "https://www.lego.com/cdn/cs/set/assets/bltb04aac3af688e0b9/40713.png",
+                                            "thumbnailDimensions": {
+                                                "height": 320,
+                                                "width": 320,
+                                                "__typename": "Dimensions"
+                                            },
+                                            "__typename": "ListingProductAsset"
+                                        },
+                                        {
+                                            "id": "blt4b7f43c3f6c07041",
+                                            "tag": "secondary",
+                                            "url": "https://www.lego.com/cdn/cs/set/assets/blt4b7f43c3f6c07041/40713_alt1.png",
+                                            "thumbnailDimensions": {
+                                                "height": 320,
+                                                "width": 320,
+                                                "__typename": "Dimensions"
+                                            },
+                                            "__typename": "ListingProductAsset"
+                                        }
+                                    ],
+                                    "overrideUrl": null,
+                                    "variant": {
+                                        "id": "6473110",
+                                        "sku": "6473110",
+                                        "salePercentage": 0,
+                                        "attributes": {
+                                            "rating": 5,
+                                            "maxOrderQuantity": 5,
+                                            "availabilityStatus": "E_AVAILABLE",
+                                            "availabilityText": "Available now",
+                                            "vipAvailabilityStatus": null,
+                                            "vipAvailabilityText": null,
+                                            "canAddToBag": true,
+                                            "canAddToWishlist": true,
+                                            "vipCanAddToBag": null,
+                                            "onSale": false,
+                                            "isNew": true,
+                                            "ageRange": "9+",
+                                            "pieceCount": 262,
+                                            "safetyWarning": null,
+                                            "featuredFlags": [
+                                                {
+                                                    "key": "new",
+                                                    "label": "New",
+                                                    "__typename": "FeaturedFlags"
+                                                }
+                                            ],
+                                            "__typename": "ProductAttributes"
+                                        },
+                                        "price": {
+                                            "formattedAmount": "$14.99",
+                                            "centAmount": 1499,
+                                            "currencyCode": "USD",
+                                            "formattedValue": 14.99,
+                                            "__typename": "Price"
+                                        },
+                                        "listPrice": {
+                                            "formattedAmount": "$14.99",
+                                            "centAmount": 1499,
+                                            "__typename": "Price"
+                                        },
+                                        "__typename": "ProductVariant"
+                                    }
+                                }
+                            ],
+                            "facets": [
+                                {
+                                    "name": "Product Type",
+                                    "key": "categories.id",
+                                    "id": "product.facet.productType",
+                                    "isDefaultActive": true,
+                                    "labels": [
+                                        {
+                                            "__typename": "FacetValue",
+                                            "displayMode": "TEXT",
+                                            "name": "Sets",
+                                            "labelKey": "SETS",
+                                            "count": 134,
+                                            "value": "12ba8640-7fb5-4281-991d-ac55c65d8001"
+                                        },
+                                        {
+                                            "__typename": "FacetValue",
+                                            "displayMode": "TEXT",
+                                            "name": "Lunar New Year",
+                                            "labelKey": "chineselunaryear",
+                                            "count": 16,
+                                            "value": "6c7eae27-1b84-46dc-93b0-a8718f099a30"
+                                        },
+                                        {
+                                            "__typename": "FacetValue",
+                                            "displayMode": "TEXT",
+                                            "name": "Key Chains",
+                                            "labelKey": "KEYRINGS",
+                                            "count": 4,
+                                            "value": "0b05a003-1702-40e9-8f65-185dcfc640ed"
+                                        },
+                                        {
+                                            "__typename": "FacetValue",
+                                            "displayMode": "TEXT",
+                                            "name": "Home decor",
+                                            "labelKey": "FOR_THE_HOME",
+                                            "count": 3,
+                                            "value": "b32cddff-52e5-4f22-a212-1dfb3fd31fbb"
+                                        },
+                                        {
+                                            "__typename": "FacetValue",
+                                            "displayMode": "TEXT",
+                                            "name": "Minifigures",
+                                            "labelKey": null,
+                                            "count": 2,
+                                            "value": "a46f1ffd-db4d-4813-89d1-5d19f8737ef5"
+                                        },
+                                        {
+                                            "__typename": "FacetValue",
+                                            "displayMode": "TEXT",
+                                            "name": "Helmets",
+                                            "labelKey": "helmets",
+                                            "count": 1,
+                                            "value": "acde663c-370f-4d9e-afcb-f5083c6c8fa5"
+                                        },
+                                        {
+                                            "__typename": "FacetValue",
+                                            "displayMode": "TEXT",
+                                            "name": "Adults",
+                                            "labelKey": "adults",
+                                            "count": 1,
+                                            "value": "7393d687-c928-49f5-b747-beaf4dcaf341"
+                                        },
+                                        {
+                                            "__typename": "FacetValue",
+                                            "displayMode": "TEXT",
+                                            "name": "Adults",
+                                            "labelKey": "hypeadultsql",
+                                            "count": 1,
+                                            "value": "201eb8de-95fb-4f9f-8937-d0555b50b8f5"
+                                        },
+                                        {
+                                            "__typename": "FacetValue",
+                                            "displayMode": "TEXT",
+                                            "name": "Mothers Day Gift Ideas",
+                                            "labelKey": "mothersdaygiftideas",
+                                            "count": 1,
+                                            "value": "6674262f-3534-43db-90d8-718ec4da3901"
+                                        },
+                                        {
+                                            "__typename": "FacetValue",
+                                            "displayMode": "TEXT",
+                                            "name": "Flowers",
+                                            "labelKey": "flowers",
+                                            "count": 1,
+                                            "value": "89498c5f-5e61-42cf-bd92-342ea4a108f6"
+                                        },
+                                        {
+                                            "__typename": "FacetValue",
+                                            "displayMode": "TEXT",
+                                            "name": "Books",
+                                            "labelKey": "BOOKS",
+                                            "count": 1,
+                                            "value": "d20ecc4f-1dd8-4f1d-8158-fe2c59bdbbbe"
+                                        }
+                                    ],
+                                    "__typename": "Facet"
+                                },
+                                {
+                                    "name": "Price",
+                                    "key": "variants.scopedPrice.currentValue.centAmount",
+                                    "id": "product.facet.prices",
+                                    "isDefaultActive": true,
+                                    "labels": [
+                                        {
+                                            "__typename": "FacetRange",
+                                            "displayMode": "TEXT",
+                                            "name": "$0 - $25",
+                                            "labelKey": "$0 - $25",
+                                            "count": 63,
+                                            "from": 0,
+                                            "to": 2500
+                                        },
+                                        {
+                                            "__typename": "FacetRange",
+                                            "displayMode": "TEXT",
+                                            "name": "$25 - $50",
+                                            "labelKey": "$25 - $50",
+                                            "count": 42,
+                                            "from": 2500,
+                                            "to": 5000
+                                        },
+                                        {
+                                            "__typename": "FacetRange",
+                                            "displayMode": "TEXT",
+                                            "name": "$50 - $75",
+                                            "labelKey": "$50 - $75",
+                                            "count": 15,
+                                            "from": 5000,
+                                            "to": 7500
+                                        },
+                                        {
+                                            "__typename": "FacetRange",
+                                            "displayMode": "TEXT",
+                                            "name": "$75 - $100",
+                                            "labelKey": "$75 - $100",
+                                            "count": 13,
+                                            "from": 7500,
+                                            "to": 10000
+                                        },
+                                        {
+                                            "__typename": "FacetRange",
+                                            "displayMode": "TEXT",
+                                            "name": "$100+",
+                                            "labelKey": "$100+",
+                                            "count": 8,
+                                            "from": 10000,
+                                            "to": 0
+                                        }
+                                    ],
+                                    "__typename": "Facet"
+                                },
+                                {
+                                    "name": "Theme",
+                                    "key": "categories.id",
+                                    "id": "product.facet.theme",
+                                    "isDefaultActive": true,
+                                    "labels": [
+                                        {
+                                            "__typename": "FacetValue",
+                                            "displayMode": "TEXT",
+                                            "name": "Art",
+                                            "labelKey": "art",
+                                            "count": 1,
+                                            "value": "60f5b610-f541-4b10-b7f5-6925be132af6"
+                                        },
+                                        {
+                                            "__typename": "FacetValue",
+                                            "displayMode": "TEXT",
+                                            "name": "BrickHeadz",
+                                            "labelKey": "brickheadz",
+                                            "count": 1,
+                                            "value": "51d0d8f6-2032-435f-b7a5-492242590842"
+                                        },
+                                        {
+                                            "__typename": "FacetValue",
+                                            "displayMode": "TEXT",
+                                            "name": "City",
+                                            "labelKey": "city",
+                                            "count": 25,
+                                            "value": "96aff015-13f0-4d30-a4d1-d0a31d16f16c"
+                                        },
+                                        {
+                                            "__typename": "FacetValue",
+                                            "displayMode": "TEXT",
+                                            "name": "Classic",
+                                            "labelKey": "classic",
+                                            "count": 4,
+                                            "value": "38303694-3d52-40a1-9af3-a9606a59550a"
+                                        },
+                                        {
+                                            "__typename": "FacetValue",
+                                            "displayMode": "TEXT",
+                                            "name": "Creator 3-in-1",
+                                            "labelKey": "creator3in1",
+                                            "count": 9,
+                                            "value": "953a74ca-c284-43a8-8240-b3b8d2f5ae1c"
+                                        },
+                                        {
+                                            "__typename": "FacetValue",
+                                            "displayMode": "TEXT",
+                                            "name": "Disney\u2122",
+                                            "labelKey": "disney",
+                                            "count": 7,
+                                            "value": "b57f6c1e-f0a0-48a9-91b0-eda8dab39528"
+                                        },
+                                        {
+                                            "__typename": "FacetValue",
+                                            "displayMode": "TEXT",
+                                            "name": "DUPLO\u00ae",
+                                            "labelKey": "duplo",
+                                            "count": 10,
+                                            "value": "4a4493a4-3513-4fa1-888c-353da1437851"
+                                        },
+                                        {
+                                            "__typename": "FacetValue",
+                                            "displayMode": "TEXT",
+                                            "name": "Friends",
+                                            "labelKey": "friends",
+                                            "count": 21,
+                                            "value": "1bcfd7b6-4895-42fb-8e18-9b374a8bb677"
+                                        },
+                                        {
+                                            "__typename": "FacetValue",
+                                            "displayMode": "TEXT",
+                                            "name": "Ideas",
+                                            "labelKey": "ideas",
+                                            "count": 1,
+                                            "value": "2237887c-51ec-4e65-becf-117ae6180bf0"
+                                        },
+                                        {
+                                            "__typename": "FacetValue",
+                                            "displayMode": "TEXT",
+                                            "name": "Jurassic World\u2122",
+                                            "labelKey": "jurassicworld",
+                                            "count": 1,
+                                            "value": "ab2618af-0e1a-415d-a561-ddc7bd8f3e89"
+                                        },
+                                        {
+                                            "__typename": "FacetValue",
+                                            "displayMode": "TEXT",
+                                            "name": "LEGO\u00ae DREAMZzz\u2122",
+                                            "labelKey": "dreamzzz",
+                                            "count": 5,
+                                            "value": "73767b14-c622-4d59-abad-3c911a770f13"
+                                        },
+                                        {
+                                            "__typename": "FacetValue",
+                                            "displayMode": "TEXT",
+                                            "name": "LEGO\u00ae Sonic the Hedgehog\u2122",
+                                            "labelKey": "sonicthehedgehog",
+                                            "count": 2,
+                                            "value": "e6ed303d-55cf-49ca-b066-b9fd040a614c"
+                                        },
+                                        {
+                                            "__typename": "FacetValue",
+                                            "displayMode": "TEXT",
+                                            "name": "LEGO\u00ae Super Mario\u2122",
+                                            "labelKey": "supermario",
+                                            "count": 5,
+                                            "value": "5762f826-7e6e-4f68-babb-eaf8692b4fa8"
+                                        },
+                                        {
+                                            "__typename": "FacetValue",
+                                            "displayMode": "TEXT",
+                                            "name": "Marvel",
+                                            "labelKey": "marvelsuperheroes",
+                                            "count": 14,
+                                            "value": "e92d1f5f-91be-4083-9e99-766ca3e90c55"
+                                        },
+                                        {
+                                            "__typename": "FacetValue",
+                                            "displayMode": "TEXT",
+                                            "name": "Minecraft\u00ae",
+                                            "labelKey": "minecraft",
+                                            "count": 7,
+                                            "value": "3ee0ddbe-0986-42ea-9700-f2aabef966b1"
+                                        },
+                                        {
+                                            "__typename": "FacetValue",
+                                            "displayMode": "TEXT",
+                                            "name": "Minifigures",
+                                            "labelKey": "minifigures",
+                                            "count": 3,
+                                            "value": "13afd5e3-4b4f-4ead-89a3-931b961565d2"
+                                        },
+                                        {
+                                            "__typename": "FacetValue",
+                                            "displayMode": "TEXT",
+                                            "name": "Monkie Kid\u2122",
+                                            "labelKey": "monkiekid",
+                                            "count": 4,
+                                            "value": "42ef643e-d7d3-4b31-b3ed-e4275541ade3"
+                                        },
+                                        {
+                                            "__typename": "FacetValue",
+                                            "displayMode": "TEXT",
+                                            "name": "NINJAGO\u00ae",
+                                            "labelKey": "ninjago",
+                                            "count": 9,
+                                            "value": "008976a6-bf87-435c-89cc-87ea0b2ea63c"
+                                        },
+                                        {
+                                            "__typename": "FacetValue",
+                                            "displayMode": "TEXT",
+                                            "name": "Other",
+                                            "labelKey": "other",
+                                            "count": 7,
+                                            "value": "9fe455ac-be16-4348-81fe-ddd8261327c1"
+                                        },
+                                        {
+                                            "__typename": "FacetValue",
+                                            "displayMode": "TEXT",
+                                            "name": "Spider-Man",
+                                            "labelKey": "spiderman",
+                                            "count": 2,
+                                            "value": "241c583a-af08-46ec-9534-a13f1b29e5de"
+                                        },
+                                        {
+                                            "__typename": "FacetValue",
+                                            "displayMode": "TEXT",
+                                            "name": "Star Wars\u2122",
+                                            "labelKey": "starwars",
+                                            "count": 1,
+                                            "value": "571ed551-f375-4b0b-925b-057aa50973f0"
+                                        },
+                                        {
+                                            "__typename": "FacetValue",
+                                            "displayMode": "TEXT",
+                                            "name": "Technic\u2122",
+                                            "labelKey": "technic",
+                                            "count": 5,
+                                            "value": "fc77028c-e984-4dfe-b698-4423f69ee663"
+                                        }
+                                    ],
+                                    "__typename": "Facet"
+                                },
+                                {
+                                    "name": "Interest",
+                                    "key": "categories.id",
+                                    "id": "product.facet.interest",
+                                    "isDefaultActive": true,
+                                    "labels": [
+                                        {
+                                            "__typename": "FacetValue",
+                                            "displayMode": "TEXT",
+                                            "name": "Animals",
+                                            "labelKey": "animals",
+                                            "count": 27,
+                                            "value": "50b7a1a1-0159-400c-ba83-429a99f91a0f"
+                                        },
+                                        {
+                                            "__typename": "FacetValue",
+                                            "displayMode": "TEXT",
+                                            "name": "Art, Design & Music",
+                                            "labelKey": "artdesignandmusic",
+                                            "count": 10,
+                                            "value": "952ee6fd-8a72-4464-bea3-1a1d10ac3418"
+                                        },
+                                        {
+                                            "__typename": "FacetValue",
+                                            "displayMode": "TEXT",
+                                            "name": "Arts and crafts",
+                                            "labelKey": "artsandcrafts",
+                                            "count": 2,
+                                            "value": "63a3bc8f-1eab-418e-a5b2-b27ddd540847"
+                                        },
+                                        {
+                                            "__typename": "FacetValue",
+                                            "displayMode": "TEXT",
+                                            "name": "Boats",
+                                            "labelKey": "boats",
+                                            "count": 5,
+                                            "value": "321004b6-14fc-46e3-bb14-e6f98600acae"
+                                        },
+                                        {
+                                            "__typename": "FacetValue",
+                                            "displayMode": "TEXT",
+                                            "name": "Buildings",
+                                            "labelKey": "buildings",
+                                            "count": 11,
+                                            "value": "eba35bb6-dbeb-4b0f-a04e-d3b2cee542ce"
+                                        },
+                                        {
+                                            "__typename": "FacetValue",
+                                            "displayMode": "TEXT",
+                                            "name": "Cars",
+                                            "labelKey": "cars",
+                                            "count": 9,
+                                            "value": "1f44e678-85a6-4854-8a1e-528c89f824d0"
+                                        },
+                                        {
+                                            "__typename": "FacetValue",
+                                            "displayMode": "TEXT",
+                                            "name": "Dragons",
+                                            "labelKey": "dragons",
+                                            "count": 6,
+                                            "value": "6952574c-fc66-4dbf-ac0c-d79c33d63bbd"
+                                        },
+                                        {
+                                            "__typename": "FacetValue",
+                                            "displayMode": "TEXT",
+                                            "name": "Entertainment",
+                                            "labelKey": "entertainment",
+                                            "count": 2,
+                                            "value": "9fea9673-8754-4955-803c-d71332895c94"
+                                        },
+                                        {
+                                            "__typename": "FacetValue",
+                                            "displayMode": "TEXT",
+                                            "name": "Fantasy",
+                                            "labelKey": "fantasy",
+                                            "count": 16,
+                                            "value": "8aaf47f5-1a76-4839-a476-70f64330631e"
+                                        },
+                                        {
+                                            "__typename": "FacetValue",
+                                            "displayMode": "TEXT",
+                                            "name": "Gaming",
+                                            "labelKey": "gaming",
+                                            "count": 14,
+                                            "value": "6b5dfcc6-1ed8-4ca1-9005-9218150ba055"
+                                        },
+                                        {
+                                            "__typename": "FacetValue",
+                                            "displayMode": "TEXT",
+                                            "name": "Learn to build",
+                                            "labelKey": "learntobuild",
+                                            "count": 9,
+                                            "value": "3f1cbac9-fa08-4e26-ac16-491d8dffe3b0"
+                                        },
+                                        {
+                                            "__typename": "FacetValue",
+                                            "displayMode": "TEXT",
+                                            "name": "Ninjas",
+                                            "labelKey": "ninjas",
+                                            "count": 10,
+                                            "value": "e6719986-4878-4977-b9fe-848c4dc26d54"
+                                        },
+                                        {
+                                            "__typename": "FacetValue",
+                                            "displayMode": "TEXT",
+                                            "name": "Pets",
+                                            "labelKey": "pets",
+                                            "count": 2,
+                                            "value": "0a223b30-5191-4939-821a-3f5c33e68cbc"
+                                        },
+                                        {
+                                            "__typename": "FacetValue",
+                                            "displayMode": "TEXT",
+                                            "name": "Police",
+                                            "labelKey": "police",
+                                            "count": 3,
+                                            "value": "57c6ca5e-857a-4fa4-97b8-44cbd2452ce0"
+                                        },
+                                        {
+                                            "__typename": "FacetValue",
+                                            "displayMode": "TEXT",
+                                            "name": "Preschool",
+                                            "labelKey": "preschool",
+                                            "count": 10,
+                                            "value": "6f426049-6f26-42f0-a498-6676445335fa"
+                                        },
+                                        {
+                                            "__typename": "FacetValue",
+                                            "displayMode": "TEXT",
+                                            "name": "Princesses",
+                                            "labelKey": "princesses",
+                                            "count": 6,
+                                            "value": "ef505c47-ae25-4097-b1b5-20db7aa4f9b9"
+                                        },
+                                        {
+                                            "__typename": "FacetValue",
+                                            "displayMode": "TEXT",
+                                            "name": "Real Life Heroes",
+                                            "labelKey": "reallifeheroes",
+                                            "count": 14,
+                                            "value": "926b7d0e-0cba-4bcc-8531-be6b3119349c"
+                                        },
+                                        {
+                                            "__typename": "FacetValue",
+                                            "displayMode": "TEXT",
+                                            "name": "Seasonal",
+                                            "labelKey": "seasonal",
+                                            "count": 6,
+                                            "value": "783e4181-78bb-4564-88bf-72afe7ce8ac2"
+                                        },
+                                        {
+                                            "__typename": "FacetValue",
+                                            "displayMode": "TEXT",
+                                            "name": "Space",
+                                            "labelKey": "space",
+                                            "count": 13,
+                                            "value": "14addeb5-c1c9-47c6-8524-3cc7e52d303e"
+                                        },
+                                        {
+                                            "__typename": "FacetValue",
+                                            "displayMode": "TEXT",
+                                            "name": "Sports",
+                                            "labelKey": "sportstoysandsets",
+                                            "count": 1,
+                                            "value": "cc9b13b8-8dbb-4def-941a-4a5888976a65"
+                                        },
+                                        {
+                                            "__typename": "FacetValue",
+                                            "displayMode": "TEXT",
+                                            "name": "Sports & Gaming",
+                                            "labelKey": "sportsandgaming",
+                                            "count": 7,
+                                            "value": "594aa147-928b-4b99-893a-2445f46f6cf5"
+                                        },
+                                        {
+                                            "__typename": "FacetValue",
+                                            "displayMode": "TEXT",
+                                            "name": "Super Heroes",
+                                            "labelKey": "superheroes",
+                                            "count": 12,
+                                            "value": "69f97ac4-aa54-4527-a26e-f269b2267ff9"
+                                        },
+                                        {
+                                            "__typename": "FacetValue",
+                                            "displayMode": "TEXT",
+                                            "name": "Trains",
+                                            "labelKey": "trains",
+                                            "count": 1,
+                                            "value": "83573af6-f5a6-44be-96c2-6167ed7b6505"
+                                        },
+                                        {
+                                            "__typename": "FacetValue",
+                                            "displayMode": "TEXT",
+                                            "name": "Travel & History",
+                                            "labelKey": "travelandhistory",
+                                            "count": 2,
+                                            "value": "de291476-79c8-4d3d-b98c-f3c6a4e990b3"
+                                        },
+                                        {
+                                            "__typename": "FacetValue",
+                                            "displayMode": "TEXT",
+                                            "name": "Trucks",
+                                            "labelKey": "trucks",
+                                            "count": 10,
+                                            "value": "594c8549-705c-40ac-ba7c-e60d9a1c20a8"
+                                        },
+                                        {
+                                            "__typename": "FacetValue",
+                                            "displayMode": "TEXT",
+                                            "name": "Valentine's Day",
+                                            "labelKey": "valentinesday",
+                                            "count": 1,
+                                            "value": "a6738084-d303-48b4-994b-57d02b7e22c8"
+                                        },
+                                        {
+                                            "__typename": "FacetValue",
+                                            "displayMode": "TEXT",
+                                            "name": "Vehicles",
+                                            "labelKey": "vehicles",
+                                            "count": 40,
+                                            "value": "82d0c99f-90e6-4f74-83ec-1f516fb7b428"
+                                        },
+                                        {
+                                            "__typename": "FacetValue",
+                                            "displayMode": "TEXT",
+                                            "name": "Video Games",
+                                            "labelKey": "videogames",
+                                            "count": 14,
+                                            "value": "1318b831-310b-454a-b64e-1e7f8347bfec"
+                                        }
+                                    ],
+                                    "__typename": "Facet"
+                                },
+                                {
+                                    "name": "Age",
+                                    "key": "variants.attributes.ageRangeFacets",
+                                    "id": "product.facet.ageRange",
+                                    "isDefaultActive": false,
+                                    "labels": [
+                                        {
+                                            "__typename": "FacetValue",
+                                            "displayMode": "TEXT",
+                                            "name": "1.5+",
+                                            "labelKey": "1.5+",
+                                            "count": 10,
+                                            "value": "1.5+"
+                                        },
+                                        {
+                                            "__typename": "FacetValue",
+                                            "displayMode": "TEXT",
+                                            "name": "4+",
+                                            "labelKey": "4+",
+                                            "count": 29,
+                                            "value": "4+"
+                                        },
+                                        {
+                                            "__typename": "FacetValue",
+                                            "displayMode": "TEXT",
+                                            "name": "6+",
+                                            "labelKey": "6+",
+                                            "count": 114,
+                                            "value": "6+"
+                                        },
+                                        {
+                                            "__typename": "FacetValue",
+                                            "displayMode": "TEXT",
+                                            "name": "9+",
+                                            "labelKey": "9+",
+                                            "count": 98,
+                                            "value": "9+"
+                                        },
+                                        {
+                                            "__typename": "FacetValue",
+                                            "displayMode": "TEXT",
+                                            "name": "13+",
+                                            "labelKey": "13+",
+                                            "count": 8,
+                                            "value": "13+"
+                                        },
+                                        {
+                                            "__typename": "FacetValue",
+                                            "displayMode": "TEXT",
+                                            "name": "18+",
+                                            "labelKey": "18+",
+                                            "count": 4,
+                                            "value": "18+"
+                                        }
+                                    ],
+                                    "__typename": "Facet"
+                                },
+                                {
+                                    "name": "Availability",
+                                    "key": "variants.attributes.availabilityStatus.zxx-US",
+                                    "id": "product.facet.availability",
+                                    "isDefaultActive": false,
+                                    "labels": [
+                                        {
+                                            "__typename": "FacetValue",
+                                            "displayMode": "TEXT",
+                                            "name": "Available Now",
+                                            "labelKey": "available",
+                                            "count": 141,
+                                            "value": "\"E_AVAILABLE\""
+                                        },
+                                        {
+                                            "__typename": "FacetValue",
+                                            "displayMode": "TEXT",
+                                            "name": "Coming Soon",
+                                            "labelKey": "coming_soon",
+                                            "count": 33,
+                                            "value": "\"B_COMING_SOON_AT_DATE\",\"D_COMING_SOON\""
+                                        },
+                                        {
+                                            "__typename": "FacetValue",
+                                            "displayMode": "TEXT",
+                                            "name": "Back Order",
+                                            "labelKey": "backorder",
+                                            "count": 5,
+                                            "value": "\"F_BACKORDER_FOR_DATE\",\"G_BACKORDER\""
+                                        },
+                                        {
+                                            "__typename": "FacetValue",
+                                            "displayMode": "TEXT",
+                                            "name": "Pre-order",
+                                            "labelKey": "pre_order",
+                                            "count": 2,
+                                            "value": "\"A_PRE_ORDER_FOR_DATE\",\"C_PRE_ORDER\""
+                                        },
+                                        {
+                                            "__typename": "FacetValue",
+                                            "displayMode": "TEXT",
+                                            "name": "Out of Stock",
+                                            "labelKey": "out_of_stock",
+                                            "count": 1,
+                                            "value": "\"H_OUT_OF_STOCK\",\"K_SOLD_OUT\",\"L_READ_ONLY\""
+                                        },
+                                        {
+                                            "__typename": "FacetValue",
+                                            "displayMode": "TEXT",
+                                            "name": "Retired Product",
+                                            "labelKey": "retired",
+                                            "count": 0,
+                                            "value": "\"R_RETIRED\""
+                                        }
+                                    ],
+                                    "__typename": "Facet"
+                                },
+                                {
+                                    "name": "Piece Count",
+                                    "key": "variants.attributes.pieceCount",
+                                    "id": "product.facet.pieceCount",
+                                    "isDefaultActive": false,
+                                    "labels": [
+                                        {
+                                            "__typename": "FacetRange",
+                                            "displayMode": "TEXT",
+                                            "name": "1-99",
+                                            "labelKey": "1-99",
+                                            "count": 29,
+                                            "from": 1,
+                                            "to": 99
+                                        },
+                                        {
+                                            "__typename": "FacetRange",
+                                            "displayMode": "TEXT",
+                                            "name": "100-249",
+                                            "labelKey": "100-249",
+                                            "count": 40,
+                                            "from": 100,
+                                            "to": 249
+                                        },
+                                        {
+                                            "__typename": "FacetRange",
+                                            "displayMode": "TEXT",
+                                            "name": "250-499",
+                                            "labelKey": "250-499",
+                                            "count": 34,
+                                            "from": 250,
+                                            "to": 499
+                                        },
+                                        {
+                                            "__typename": "FacetRange",
+                                            "displayMode": "TEXT",
+                                            "name": "500-999",
+                                            "labelKey": "500-999",
+                                            "count": 24,
+                                            "from": 500,
+                                            "to": 999
+                                        },
+                                        {
+                                            "__typename": "FacetRange",
+                                            "displayMode": "TEXT",
+                                            "name": "1000-1999",
+                                            "labelKey": "1000-1999",
+                                            "count": 7,
+                                            "from": 1000,
+                                            "to": 1999
+                                        },
+                                        {
+                                            "__typename": "FacetRange",
+                                            "displayMode": "TEXT",
+                                            "name": "2000+",
+                                            "labelKey": "2000+",
+                                            "count": 3,
+                                            "from": 2000,
+                                            "to": 0
+                                        }
+                                    ],
+                                    "__typename": "Facet"
+                                }
+                            ],
+                            "sortOptions": [
+                                {
+                                    "id": "FEATURED_DESC",
+                                    "key": "FEATURED",
+                                    "direction": "DESC",
+                                    "label": "Recommended",
+                                    "analyticLabel": "Featured",
+                                    "__typename": "SortOptions"
+                                },
+                                {
+                                    "id": "AVAILABILITY_DATE_DESC",
+                                    "key": "AVAILABILITY_DATE",
+                                    "direction": "DESC",
+                                    "label": "Newest",
+                                    "analyticLabel": "Newest",
+                                    "__typename": "SortOptions"
+                                },
+                                {
+                                    "id": "PRICE_ASC",
+                                    "key": "PRICE",
+                                    "direction": "ASC",
+                                    "label": "Price: Low to High",
+                                    "analyticLabel": "PriceLowtoHigh",
+                                    "__typename": "SortOptions"
+                                },
+                                {
+                                    "id": "PRICE_DESC",
+                                    "key": "PRICE",
+                                    "direction": "DESC",
+                                    "label": "Price: High to Low",
+                                    "analyticLabel": "PriceHightoLow",
+                                    "__typename": "SortOptions"
+                                },
+                                {
+                                    "id": "PIECE_COUNT_DESC",
+                                    "key": "PIECE_COUNT",
+                                    "direction": "DESC",
+                                    "label": "Piece Count: High to Low",
+                                    "analyticLabel": "PieceCount",
+                                    "__typename": "SortOptions"
+                                },
+                                {
+                                    "id": "RATING_DESC",
+                                    "key": "RATING",
+                                    "direction": "DESC",
+                                    "label": "Rating",
+                                    "analyticLabel": "Rating",
+                                    "__typename": "SortOptions"
+                                },
+                                {
+                                    "id": "NAME_ASC",
+                                    "key": "NAME",
+                                    "direction": "ASC",
+                                    "label": "A-Z",
+                                    "analyticLabel": "Name",
+                                    "__typename": "SortOptions"
+                                }
+                            ],
+                            "disruptors": [],
+                            "promotion": null,
+                            "__typename": "ProductQueryResult"
+                        }
+                    }
+                },
+                {
+                    "id": "006660a3-b219-11ee-bdd6-f75cb6bee651",
+                    "multivariate": null,
+                    "targeting": {
+                        "fetchOnClient": false,
+                        "__typename": "ContentContainerTargeting"
+                    },
+                    "__typename": "ContentContainer",
+                    "section": {
+                        "__typename": "RelatedArticleSection",
+                        "id": "bltf4475912118d65cb-blt40998f2555dc9b49",
+                        "layout": {
+                            "width": "Standard",
+                            "colors": {
+                                "background": "",
+                                "__typename": "ContentSectionLayoutColors"
+                            },
+                            "__typename": "ContentSectionLayout"
+                        },
+                        "title": "",
+                        "articles": [
+                            {
+                                "id": "blt768ae09763e574d7",
+                                "title": "New LEGO\u00ae City Sets for 2024",
+                                "description": "Explore the latest LEGO\u00ae City sets for 2024. Imagine, build, and play with the newest additions to the collection.",
+                                "url": "/themes/city/new-lego-city-sets",
+                                "image": {
+                                    "url": "https://www.lego.com/cdn/cs/set/assets/blt4b7aa4a70f29ec0f/60419_lifestyle_envr.jpg?fit=crop&format=jpg&quality=80&width=635&height=440&dpr=1",
+                                    "width": 635,
+                                    "height": 440,
+                                    "maxPixelDensity": 1.5,
+                                    "format": "jpg",
+                                    "__typename": "ImageAssetDetails"
+                                },
+                                "__typename": "RelatedArticleSectionChild"
+                            },
+                            {
+                                "id": "blt5b0c4ae61bcac914",
+                                "title": "New Building Toys in 2024",
+                                "description": "Discover our exciting lineup of new LEGO\u00ae building toys for 2024. Find the perfect set for every builder, big or small, and unlock a world of creative play!",
+                                "url": "/categories/new-sets-and-products/new-building-toys",
+                                "image": {
+                                    "url": "https://www.lego.com/cdn/cs/set/assets/blt78734a59f3fc2fb0/231205_Design_brief_Article_assets_1_Hero_Std_Mobile.jpg?fit=crop&format=jpg&quality=80&width=635&height=440&dpr=1",
+                                    "width": 635,
+                                    "height": 440,
+                                    "maxPixelDensity": 1.5,
+                                    "format": "jpg",
+                                    "__typename": "ImageAssetDetails"
+                                },
+                                "__typename": "RelatedArticleSectionChild"
+                            }
+                        ],
+                        "backgroundColor": "transparent",
+                        "showCta": false,
+                        "target": {
+                            "text": "",
+                            "href": "",
+                            "__typename": "RelatedArticleSectionTarget"
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

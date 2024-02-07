@@ -1,0 +1,380 @@
+[
+    {
+        "name": "Family Reunion Celebration",
+        "listingImages": [
+            {
+                "url": "https://www.lego.com/cdn/cs/set/assets/blt182acebcd064fd67/80113.png"
+            },
+            {
+                "url": "https://www.lego.com/cdn/cs/set/assets/blt5bd53e0284bcfc77/80113_alt9.png"
+            }
+        ],
+        "variant": {
+            "attributes": {
+                "rating": 4.6,
+                "ageRange": "8+",
+                "pieceCount": 1823
+            },
+            "price": {
+                "formattedAmount": "$129.99"
+            }
+        }
+    },
+    {
+        "name": "Spider-Man's Mask",
+        "listingImages": [
+            {
+                "url": "https://www.lego.com/cdn/cs/set/assets/bltbd4f1a39f110e3eb/76285.png"
+            },
+            {
+                "url": "https://www.lego.com/cdn/cs/set/assets/blt676797ac13be9935/76285_alt1.jpg"
+            }
+        ],
+        "variant": {
+            "attributes": {
+                "rating": 4.3571,
+                "ageRange": "18+",
+                "pieceCount": 487
+            },
+            "price": {
+                "formattedAmount": "$69.99"
+            }
+        }
+    },
+    {
+        "name": "Auspicious Dragon",
+        "listingImages": [
+            {
+                "url": "https://www.lego.com/cdn/cs/set/assets/bltf468495d3d0fa34f/80112.png"
+            },
+            {
+                "url": "https://www.lego.com/cdn/cs/set/assets/blt3bdd33f0621997c3/80112_alt1.png"
+            }
+        ],
+        "variant": {
+            "attributes": {
+                "rating": 4.4762,
+                "ageRange": "10+",
+                "pieceCount": 1171
+            },
+            "price": {
+                "formattedAmount": "$89.99"
+            }
+        }
+    },
+    {
+        "name": "Mini Disney Ariel's Castle",
+        "listingImages": [
+            {
+                "url": "https://www.lego.com/cdn/cs/set/assets/bltc568f12bc5cfa63e/40708.png"
+            },
+            {
+                "url": "https://www.lego.com/cdn/cs/set/assets/blt26da64d0c3367269/40708_alt1.png"
+            }
+        ],
+        "variant": {
+            "attributes": {
+                "rating": 3.7143,
+                "ageRange": "12+",
+                "pieceCount": 557
+            },
+            "price": {
+                "formattedAmount": "$39.99"
+            }
+        }
+    },
+    {
+        "name": "Polaroid OneStep SX-70 Camera",
+        "listingImages": [
+            {
+                "url": "https://www.lego.com/cdn/cs/set/assets/bltb0d4865e1765d9bc/21345.png"
+            },
+            {
+                "url": "https://www.lego.com/cdn/cs/set/assets/blt9d4301a61bed4852/21345_alt1.jpg"
+            }
+        ],
+        "variant": {
+            "attributes": {
+                "rating": 4.434,
+                "ageRange": "18+",
+                "pieceCount": 516
+            },
+            "price": {
+                "formattedAmount": "$79.99"
+            }
+        }
+    },
+    {
+        "name": "X-Men X-Jet",
+        "listingImages": [
+            {
+                "url": "https://www.lego.com/cdn/cs/set/assets/blt275990c3c0a449b6/76281.png"
+            },
+            {
+                "url": "https://www.lego.com/cdn/cs/set/assets/blt19bf9c3d2be81ba1/76281_alt1.png"
+            }
+        ],
+        "variant": {
+            "attributes": {
+                "rating": 1,
+                "ageRange": "8+",
+                "pieceCount": 359
+            },
+            "price": {
+                "formattedAmount": "$84.99"
+            }
+        }
+    },
+    {
+        "name": "LEGO\u00ae Minifigures Series 25 6 Pack",
+        "listingImages": [
+            {
+                "url": "https://www.lego.com/cdn/cs/set/assets/bltefcb5706381fd00a/66763.png"
+            },
+            {
+                "url": "https://www.lego.com/cdn/cs/set/assets/blt3949416516622d66/71045.png"
+            }
+        ],
+        "variant": {
+            "attributes": {
+                "rating": 3.8462,
+                "ageRange": "5+",
+                "pieceCount": 52
+            },
+            "price": {
+                "formattedAmount": "$29.94"
+            }
+        }
+    },
+    {
+        "name": "Rocket & Baby Groot",
+        "listingImages": [
+            {
+                "url": "https://www.lego.com/cdn/cs/set/assets/bltd0dc20140691e211/76282_alt2.png"
+            },
+            {
+                "url": "https://www.lego.com/cdn/cs/set/assets/bltcf57e376e32b3da6/76282_alt1.png"
+            }
+        ],
+        "variant": {
+            "attributes": {
+                "rating": 4,
+                "ageRange": "10+",
+                "pieceCount": 566
+            },
+            "price": {
+                "formattedAmount": "$59.99"
+            }
+        }
+    },
+    {
+        "name": "Festival Calendar",
+        "listingImages": [
+            {
+                "url": "https://www.lego.com/cdn/cs/set/assets/blt7313b131b122beb4/40678.png"
+            },
+            {
+                "url": "https://www.lego.com/cdn/cs/set/assets/bltdadadebdd82818fd/40678_alt1.png"
+            }
+        ],
+        "variant": {
+            "attributes": {
+                "rating": 4.4545,
+                "ageRange": "10+",
+                "pieceCount": 345
+            },
+            "price": {
+                "formattedAmount": "$29.94"
+            }
+        }
+    },
+    {
+        "name": "Megapolis City 5th Anniversary",
+        "listingImages": [
+            {
+                "url": "https://www.lego.com/cdn/cs/set/assets/bltc939f4923794698e/80054_alt1.png"
+            },
+            {
+                "url": "https://www.lego.com/cdn/cs/set/assets/blt15b6af6bd0d27a00/80054.png"
+            }
+        ],
+        "variant": {
+            "attributes": {
+                "rating": 5,
+                "ageRange": "10+",
+                "pieceCount": 2330
+            },
+            "price": {
+                "formattedAmount": "$189.99"
+            }
+        }
+    },
+    {
+        "name": "Spider-Man vs. Sandman: Final Battle",
+        "listingImages": [
+            {
+                "url": "https://www.lego.com/cdn/cs/set/assets/bltf5d5451cc8ac2e80/76280.png"
+            },
+            {
+                "url": "https://www.lego.com/cdn/cs/set/assets/blt7bbfe17349f4e814/76280_alt1.png"
+            }
+        ],
+        "variant": {
+            "attributes": {
+                "rating": 4.2,
+                "ageRange": "10+",
+                "pieceCount": 347
+            },
+            "price": {
+                "formattedAmount": "$37.99"
+            }
+        }
+    },
+    {
+        "name": "Space\u00a0Astronaut",
+        "listingImages": [
+            {
+                "url": "https://www.lego.com/cdn/cs/set/assets/blt2ab62c2c368f72f6/31152.png"
+            },
+            {
+                "url": "https://www.lego.com/cdn/cs/set/assets/bltb2da1afbb0926a8c/31152_alt1.png"
+            }
+        ],
+        "variant": {
+            "attributes": {
+                "rating": 5,
+                "ageRange": "9+",
+                "pieceCount": 647
+            },
+            "price": {
+                "formattedAmount": "$54.99"
+            }
+        }
+    },
+    {
+        "name": "Flowers in Watering Can",
+        "listingImages": [
+            {
+                "url": "https://www.lego.com/cdn/cs/set/assets/bltd2d5f472a43f0580/31149.png"
+            },
+            {
+                "url": "https://www.lego.com/cdn/cs/set/assets/blte7a2d434230ca0ce/31149_alt1.png"
+            }
+        ],
+        "variant": {
+            "attributes": {
+                "rating": 4.8889,
+                "ageRange": "8+",
+                "pieceCount": 420
+            },
+            "price": {
+                "formattedAmount": "$29.99"
+            }
+        }
+    },
+    {
+        "name": "Tropical\u00a0Ukulele",
+        "listingImages": [
+            {
+                "url": "https://www.lego.com/cdn/cs/set/assets/bltfb2cb30f3daa8614/31156.png"
+            },
+            {
+                "url": "https://www.lego.com/cdn/cs/set/assets/blt9d6d927285e7e932/31156_alt1.png"
+            }
+        ],
+        "variant": {
+            "attributes": {
+                "rating": 5,
+                "ageRange": "8+",
+                "pieceCount": 387
+            },
+            "price": {
+                "formattedAmount": "$29.99"
+            }
+        }
+    },
+    {
+        "name": "Avengers Tower",
+        "listingImages": [
+            {
+                "url": "https://www.lego.com/cdn/cs/set/assets/blta1716ca226f20cab/76269.png"
+            },
+            {
+                "url": "https://www.lego.com/cdn/cs/set/assets/blta44628ca57bd7d14/76269_boxprod_v39.png"
+            }
+        ],
+        "variant": {
+            "attributes": {
+                "rating": 3.9333,
+                "ageRange": "18+",
+                "pieceCount": 5201
+            },
+            "price": {
+                "formattedAmount": "$499.99"
+            }
+        }
+    },
+    {
+        "name": "War Machine Mech Armor",
+        "listingImages": [
+            {
+                "url": "https://www.lego.com/cdn/cs/set/assets/blte78d428ac12b35dc/76277.png"
+            },
+            {
+                "url": "https://www.lego.com/cdn/cs/set/assets/blt643fb5313f8bfd9e/76277_alt1.png"
+            }
+        ],
+        "variant": {
+            "attributes": {
+                "rating": 4.5,
+                "ageRange": "6+",
+                "pieceCount": 154
+            },
+            "price": {
+                "formattedAmount": "$14.99"
+            }
+        }
+    },
+    {
+        "name": "Bowser's Muscle Car Expansion Set",
+        "listingImages": [
+            {
+                "url": "https://www.lego.com/cdn/cs/set/assets/blt3665b63da8214334/71431_Prod.png"
+            },
+            {
+                "url": "https://www.lego.com/cdn/cs/set/assets/blte4f1f5967219795a/71431.jpg"
+            }
+        ],
+        "variant": {
+            "attributes": {
+                "rating": 4.8333,
+                "ageRange": "8+",
+                "pieceCount": 458
+            },
+            "price": {
+                "formattedAmount": "$29.99"
+            }
+        }
+    },
+    {
+        "name": "Exotic Peacock",
+        "listingImages": [
+            {
+                "url": "https://www.lego.com/cdn/cs/set/assets/bltfa6c9196a514bb03/31157.png"
+            },
+            {
+                "url": "https://www.lego.com/cdn/cs/set/assets/blte052d9facefecfc7/31157_alt1.png"
+            }
+        ],
+        "variant": {
+            "attributes": {
+                "rating": 5,
+                "ageRange": "7+",
+                "pieceCount": 355
+            },
+            "price": {
+                "formattedAmount": "$19.99"
+            }
+        }
+    }
+]
