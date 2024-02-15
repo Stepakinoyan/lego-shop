@@ -1,7 +1,6 @@
 from sqlalchemy import JSON
-from app.database import Base
 from sqlalchemy.orm import Mapped, mapped_column
-
+from app.database import Base
 
 class Cart(Base):
     __tablename__ = 'cart'

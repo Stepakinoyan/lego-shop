@@ -1,4 +1,4 @@
-from app.lego.dao import LegoDAO
+from lego.dao import LegoDAO
 import pytest
 
 

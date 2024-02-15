@@ -1,4 +1,4 @@
-from app.cart.dao import CartDAO
+from cart.dao import CartDAO
 
 
 async def test_add_to_cart():

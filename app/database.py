@@ -4,12 +4,10 @@ from sqlalchemy.orm import DeclarativeBase, sessionmaker
 from sqlalchemy.ext.asyncio import create_async_engine, AsyncSession
 from fastapi_users.db import SQLAlchemyUserDatabase
 from typing import AsyncGenerator
-from app.config import settings
 from fastapi_users.db import SQLAlchemyBaseUserTable
 from sqlalchemy.orm import Mapped, mapped_column
 from sqlalchemy import String, Boolean
-
-
+from .config import settings
 
 
 if settings.MODE == 'TEST':

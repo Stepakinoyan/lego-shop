@@ -1,13 +1,12 @@
-import asyncio
 import json
 import pytest
 from sqlalchemy import insert
-from app.config import settings
-from app.database import Base, async_session_maker, engine
+from config import settings
+from database import Base, async_session_maker, engine
 
-from app.lego.model import Lego
+from lego.model import Lego
 from httpx import AsyncClient
-from app.main import app
+from main import app
 
 
 @pytest.fixture(scope="session" ,autouse=True)
